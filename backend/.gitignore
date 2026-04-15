@@ -24,3 +24,6 @@ __pycache__/
 .mypy_cache/
 .coverage
 htmlcov/
+
+# Large local datasets
+creditcard.csv
