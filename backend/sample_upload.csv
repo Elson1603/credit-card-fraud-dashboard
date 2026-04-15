@@ -1,0 +1,3 @@
+amount,time,location,device,merchant,international
+120.50,2025-03-28 11:21:41,Mumbai,Mobile,MetroPay,false
+2400,22:45,Delhi,Desktop,BlueCart,true

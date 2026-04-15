@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Sora:wght@500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    --page: 242 28% 8%;
+    --background: 233 19% 13%;
+    --foreground: 220 20% 96%;
+
+    --card: 236 20% 10%;
+    --card-foreground: 220 20% 96%;
+
+    --popover: 236 20% 10%;
+    --popover-foreground: 220 20% 96%;
+
+    --primary: 250 82% 68%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 234 16% 18%;
+    --secondary-foreground: 220 20% 96%;
+
+    --muted: 232 15% 20%;
+    --muted-foreground: 222 11% 69%;
+
+    --accent: 252 86% 66%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 83% 64%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 234 11% 25%;
+    --input: 234 12% 24%;
+    --ring: 250 82% 68%;
+
+    --panel: 234 20% 11%;
+    --panel-foreground: 220 20% 96%;
+    --success: 145 57% 46%;
+    --success-foreground: 0 0% 100%;
+    --danger: 0 83% 64%;
+    --danger-foreground: 0 0% 100%;
+
+    --radius: 1.05rem;
+
+    --sidebar-background: 233 20% 12%;
+    --sidebar-foreground: 220 20% 92%;
+    --sidebar-primary: 250 82% 68%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 235 15% 18%;
+    --sidebar-accent-foreground: 220 20% 96%;
+    --sidebar-border: 234 11% 25%;
+    --sidebar-ring: 250 82% 68%;
+  }
+
+  .dark {
+    --page: 242 28% 8%;
+    --background: 233 19% 13%;
+    --foreground: 220 20% 96%;
+    --card: 236 20% 10%;
+    --card-foreground: 220 20% 96%;
+    --popover: 236 20% 10%;
+    --popover-foreground: 220 20% 96%;
+    --primary: 250 82% 68%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 234 16% 18%;
+    --secondary-foreground: 220 20% 96%;
+    --muted: 232 15% 20%;
+    --muted-foreground: 222 11% 69%;
+    --accent: 252 86% 66%;
+    --accent-foreground: 0 0% 100%;
+    --destructive: 0 83% 64%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 234 11% 25%;
+    --input: 234 12% 24%;
+    --ring: 250 82% 68%;
+    --panel: 234 20% 11%;
+    --panel-foreground: 220 20% 96%;
+    --success: 145 57% 46%;
+    --success-foreground: 0 0% 100%;
+    --danger: 0 83% 64%;
+    --danger-foreground: 0 0% 100%;
+    --sidebar-background: 233 20% 12%;
+    --sidebar-foreground: 220 20% 92%;
+    --sidebar-primary: 250 82% 68%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 235 15% 18%;
+    --sidebar-accent-foreground: 220 20% 96%;
+    --sidebar-border: 234 11% 25%;
+    --sidebar-ring: 250 82% 68%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    font-family: 'Manrope', sans-serif;
+    @apply bg-background text-foreground;
+    background-color: hsl(var(--page));
+    background-image:
+      radial-gradient(circle at 10% 0%, hsl(var(--primary) / 0.2), transparent 30%),
+      radial-gradient(circle at 90% 100%, hsl(var(--accent) / 0.12), transparent 30%);
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: 'Sora', sans-serif;
+    letter-spacing: -0.02em;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    * {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
+
+@layer utilities {
+  .animate-alert-pulse {
+    animation: alert-pulse 1.6s ease-in-out infinite;
+  }
+
+  .panel-grid {
+    background-image: linear-gradient(hsl(var(--border) / 0.28) 1px, transparent 1px), linear-gradient(90deg, hsl(var(--border) / 0.28) 1px, transparent 1px);
+    background-size: 36px 36px;
+  }
+
+  .pattern-stripe {
+    background-image: repeating-linear-gradient(
+      -45deg,
+      hsl(var(--foreground) / 0.8),
+      hsl(var(--foreground) / 0.8) 3px,
+      transparent 3px,
+      transparent 9px
+    );
+  }
+
+  .graph-pill {
+    border-radius: 9999px;
+    border: 1px solid hsl(var(--border));
+    background: linear-gradient(180deg, hsl(var(--primary) / 0.95), hsl(var(--primary) / 0.65));
+  }
+}
+
+@keyframes alert-pulse {
+  0%,
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(1.12);
+    opacity: 0.8;
+  }
+}

@@ -1,0 +1,4 @@
+amount,time,location,device,merchant,international
+9999,02:10,Mumbai,Mobile,MetroPay,true
+7800,03:05,Delhi,Desktop,BlueCart,true
+6400,2025-03-28 01:12:41,Dubai,POS,NovaFuel,true

@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fraud Shield</title>
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body>
+    <main class="panel">
+      <h1>Fraud Shield</h1>
+      <p class="subtitle">Real prediction with transaction identity checks</p>
+
+      <label>Transaction ID</label>
+      <input id="transactionId" value="T00003" />
+
+      <div class="grid two">
+        <div>
+          <label>Amount (INR)</label>
+          <input id="amount" type="number" value="45515.67" />
+        </div>
+        <div>
+          <label>Hour (0-23)</label>
+          <input id="time" type="number" min="0" max="23" value="18" />
+        </div>
+      </div>
+
+      <label>Location</label>
+      <input id="location" value="Chennai" />
+
+      <label>Merchant</label>
+      <input id="merchant" value="Reliance Mart" />
+
+      <label>Device</label>
+      <input id="device" value="Mobile" />
+
+      <label class="check-row"><input id="international" type="checkbox" /> International</label>
+
+      <button id="predict">Predict</button>
+      <p id="result" class="result">Run a check to predict fraud risk.</p>
+      <p id="reasons" class="meta"></p>
+    </main>
+    <script src="popup.js"></script>
+  </body>
+</html>

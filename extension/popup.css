@@ -1,0 +1,108 @@
+:root {
+  --page: 242 28% 8%;
+  --card: 236 20% 10%;
+  --foreground: 220 20% 96%;
+  --muted: 232 15% 20%;
+  --muted-foreground: 222 11% 69%;
+  --primary: 250 82% 68%;
+  --success: 145 57% 46%;
+  --danger: 0 83% 64%;
+  --border: 234 11% 25%;
+}
+
+body {
+  margin: 0;
+  width: 360px;
+  min-height: 520px;
+  font-family: "Manrope", sans-serif;
+  background: hsl(var(--page));
+  color: hsl(var(--foreground));
+}
+
+.panel {
+  margin: 12px;
+  border: 1px solid hsl(var(--border));
+  border-radius: 14px;
+  background: hsl(var(--card));
+  padding: 14px;
+}
+
+.grid.two {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}
+
+h1 {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.subtitle {
+  margin: 4px 0 12px;
+  color: hsl(var(--muted-foreground));
+  font-size: 0.8rem;
+}
+
+label {
+  font-size: 0.8rem;
+  color: hsl(var(--muted-foreground));
+  display: block;
+  margin-top: 8px;
+}
+
+input {
+  width: 100%;
+  box-sizing: border-box;
+  margin-top: 4px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid hsl(var(--border));
+  background: hsl(var(--muted));
+  color: hsl(var(--foreground));
+}
+
+button {
+  width: 100%;
+  margin-top: 12px;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+  background: hsl(var(--primary));
+  color: white;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.check-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.check-row input {
+  width: auto;
+}
+
+.result {
+  margin-top: 12px;
+  border-radius: 10px;
+  border: 1px solid hsl(var(--border));
+  padding: 10px;
+  font-size: 0.82rem;
+}
+
+.result.safe {
+  color: hsl(var(--success));
+}
+
+.result.fraud {
+  color: hsl(var(--danger));
+}
+
+.meta {
+  margin-top: 8px;
+  color: hsl(var(--muted-foreground));
+  font-size: 0.76rem;
+  line-height: 1.35;
+}

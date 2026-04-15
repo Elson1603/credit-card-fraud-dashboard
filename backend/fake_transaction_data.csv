@@ -1,0 +1,1201 @@
+transaction_id,amount,time,location,merchant,device_type,is_international,label
+T00001,7763.76,2026-03-13 23:57:51,Chennai,Reliance Mart,Mobile,0,legit
+T00002,24867.45,2026-04-02 09:13:51,Delhi,Swiggy,Tablet,1,legit
+T00003,45515.67,2026-04-06 18:10:51,Chennai,Reliance Mart,Mobile,0,fraud
+T00004,5974.38,2026-03-26 07:45:51,Delhi,Reliance Mart,Mobile,1,legit
+T00005,26851.23,2026-03-28 18:38:51,Hyderabad,Amazon,Mobile,0,legit
+T00006,6504.67,2026-04-01 17:51:51,Pune,Croma,Tablet,0,fraud
+T00007,4032.59,2026-03-28 00:02:51,Mumbai,Uber,Mobile,1,fraud
+T00008,13641.36,2026-04-01 08:41:51,Mumbai,Reliance Mart,Tablet,1,fraud
+T00009,14921.94,2026-03-14 11:05:51,Hyderabad,Reliance Mart,Tablet,1,legit
+T00010,42174.62,2026-04-06 09:21:51,Hyderabad,Amazon,Tablet,1,fraud
+T00011,47113.68,2026-04-01 05:30:51,Bangalore,Croma,Mobile,0,fraud
+T00012,43953.76,2026-03-25 19:15:51,Bangalore,Reliance Mart,Laptop,0,legit
+T00013,25217.23,2026-04-06 11:13:51,Chennai,Amazon,Tablet,0,fraud
+T00014,39379.75,2026-04-02 07:36:51,Chennai,Amazon,Mobile,1,fraud
+T00015,41245.21,2026-03-11 06:52:51,Chennai,Reliance Mart,Tablet,0,legit
+T00016,13813.9,2026-04-05 02:07:51,Delhi,Uber,Tablet,1,legit
+T00017,17053.85,2026-04-01 08:39:51,Delhi,Reliance Mart,Laptop,1,legit
+T00018,25762.88,2026-03-17 23:38:51,Pune,Uber,Tablet,1,fraud
+T00019,1118.27,2026-04-07 23:33:51,Mumbai,Flipkart,Mobile,1,legit
+T00020,3658.75,2026-04-07 16:25:51,Hyderabad,Amazon,Mobile,0,fraud
+T00021,16876.23,2026-04-02 11:08:51,Mumbai,Amazon,Laptop,0,fraud
+T00022,14572.25,2026-04-07 01:33:51,Bangalore,Uber,Mobile,0,fraud
+T00023,49345.08,2026-03-29 04:04:51,Pune,Uber,Laptop,1,fraud
+T00024,29694.14,2026-03-28 11:12:51,Hyderabad,Swiggy,Laptop,1,legit
+T00025,13812,2026-03-12 14:16:51,Mumbai,Reliance Mart,Tablet,1,legit
+T00026,4697.22,2026-04-08 20:10:51,Hyderabad,Croma,Tablet,0,legit
+T00027,24834.98,2026-03-11 04:00:51,Bangalore,Amazon,Laptop,1,fraud
+T00028,16849.55,2026-04-05 07:12:51,Pune,Flipkart,Tablet,1,legit
+T00029,36912.51,2026-03-23 08:31:51,Bangalore,Swiggy,Tablet,0,legit
+T00030,27002.23,2026-03-23 21:06:51,Bangalore,Amazon,Laptop,0,fraud
+T00031,14128.65,2026-04-02 07:04:51,Chennai,Reliance Mart,Mobile,1,legit
+T00032,47322.46,2026-03-15 12:00:51,Delhi,Croma,Mobile,1,legit
+T00033,2049.93,2026-04-08 20:16:51,Hyderabad,Flipkart,Laptop,1,fraud
+T00034,7392.8,2026-03-24 12:23:51,Bangalore,Amazon,Mobile,0,legit
+T00035,14281.47,2026-04-03 13:30:51,Mumbai,Uber,Laptop,1,legit
+T00036,3766.5,2026-03-23 14:56:51,Delhi,Amazon,Tablet,1,legit
+T00037,26124.3,2026-03-11 12:33:51,Chennai,Croma,Tablet,1,legit
+T00038,48205.98,2026-03-20 00:10:51,Mumbai,Swiggy,Tablet,0,legit
+T00039,41639.52,2026-04-01 03:35:51,Bangalore,Reliance Mart,Mobile,0,legit
+T00040,27312.39,2026-03-14 09:29:51,Delhi,Uber,Laptop,1,fraud
+T00041,26880.45,2026-03-13 17:30:51,Delhi,Reliance Mart,Laptop,1,fraud
+T00042,39822.49,2026-03-30 15:21:51,Bangalore,Flipkart,Tablet,1,legit
+T00043,35004.37,2026-03-18 13:02:51,Delhi,Reliance Mart,Tablet,0,fraud
+T00044,27431.82,2026-03-15 07:58:51,Delhi,Swiggy,Mobile,0,fraud
+T00045,10329.87,2026-03-24 22:36:51,Bangalore,Croma,Mobile,1,fraud
+T00046,47287.18,2026-03-11 20:52:51,Pune,Uber,Laptop,0,legit
+T00047,22974.18,2026-03-26 18:50:51,Hyderabad,Uber,Mobile,1,legit
+T00048,1379.04,2026-03-24 18:01:51,Chennai,Reliance Mart,Laptop,0,fraud
+T00049,34879.18,2026-03-22 04:19:51,Chennai,Croma,Mobile,1,legit
+T00050,48684.14,2026-03-12 16:43:51,Mumbai,Amazon,Mobile,1,fraud
+T00051,32539.11,2026-03-25 05:12:51,Pune,Zomato,Tablet,0,legit
+T00052,11446.22,2026-03-21 15:03:51,Delhi,Zomato,Laptop,0,fraud
+T00053,28221.75,2026-04-07 19:46:51,Bangalore,Amazon,Laptop,1,legit
+T00054,37160.22,2026-03-21 20:01:51,Delhi,Uber,Laptop,0,legit
+T00055,48143.23,2026-03-21 06:27:51,Mumbai,Zomato,Tablet,1,fraud
+T00056,42115.64,2026-04-06 12:55:51,Chennai,Croma,Tablet,1,fraud
+T00057,49855.9,2026-03-22 00:26:51,Mumbai,Croma,Mobile,1,fraud
+T00058,9345.44,2026-03-17 12:42:51,Bangalore,Zomato,Tablet,1,legit
+T00059,18908.9,2026-03-14 03:43:51,Pune,Amazon,Mobile,0,legit
+T00060,27717.85,2026-03-11 04:26:51,Bangalore,Swiggy,Tablet,0,legit
+T00061,39942.83,2026-03-18 02:13:51,Hyderabad,Croma,Tablet,0,legit
+T00062,8502.8,2026-03-30 04:03:51,Mumbai,Swiggy,Mobile,0,legit
+T00063,24949.54,2026-04-08 00:29:51,Pune,Amazon,Mobile,0,fraud
+T00064,35534.98,2026-03-15 20:34:51,Mumbai,Zomato,Tablet,0,legit
+T00065,16056.13,2026-03-22 18:27:51,Delhi,Swiggy,Laptop,1,legit
+T00066,23679.38,2026-03-10 08:17:51,Bangalore,Flipkart,Tablet,0,legit
+T00067,14641.18,2026-04-02 12:21:51,Pune,Uber,Mobile,0,legit
+T00068,46653.81,2026-03-22 10:09:51,Chennai,Croma,Laptop,0,fraud
+T00069,34041.51,2026-03-20 08:55:51,Pune,Croma,Mobile,1,fraud
+T00070,14862.97,2026-03-27 22:44:51,Pune,Uber,Laptop,1,legit
+T00071,48672.74,2026-03-25 04:01:51,Pune,Zomato,Laptop,0,legit
+T00072,37145.54,2026-03-13 18:30:51,Chennai,Reliance Mart,Tablet,1,fraud
+T00073,28611.99,2026-03-15 06:53:51,Hyderabad,Uber,Tablet,0,fraud
+T00074,38407.1,2026-03-10 19:26:51,Bangalore,Amazon,Mobile,1,fraud
+T00075,33556.12,2026-03-13 19:28:51,Hyderabad,Zomato,Laptop,1,legit
+T00076,19368.95,2026-03-17 09:54:51,Chennai,Croma,Mobile,0,legit
+T00077,18857.59,2026-03-16 08:17:51,Pune,Amazon,Mobile,0,legit
+T00078,16602.97,2026-03-18 08:07:51,Pune,Croma,Mobile,1,legit
+T00079,1401.76,2026-03-16 09:22:51,Hyderabad,Swiggy,Mobile,0,legit
+T00080,20261.43,2026-03-12 14:02:51,Bangalore,Flipkart,Tablet,1,legit
+T00081,43823.81,2026-03-18 22:03:51,Chennai,Croma,Mobile,0,fraud
+T00082,3453.88,2026-04-08 17:26:51,Delhi,Zomato,Laptop,0,fraud
+T00083,6103.97,2026-03-18 03:51:51,Delhi,Uber,Laptop,0,legit
+T00084,30383.69,2026-03-28 06:28:51,Chennai,Zomato,Laptop,0,legit
+T00085,17484.06,2026-04-07 04:17:51,Chennai,Zomato,Tablet,1,fraud
+T00086,31393.74,2026-03-31 09:18:51,Hyderabad,Croma,Tablet,1,legit
+T00087,7279.85,2026-03-13 13:32:51,Delhi,Flipkart,Tablet,0,legit
+T00088,8146.71,2026-03-22 21:05:51,Mumbai,Uber,Laptop,1,legit
+T00089,4134.35,2026-03-12 12:06:51,Delhi,Reliance Mart,Laptop,0,fraud
+T00090,1749.45,2026-03-27 00:30:51,Mumbai,Zomato,Laptop,1,fraud
+T00091,48458.05,2026-03-24 15:57:51,Bangalore,Croma,Tablet,1,legit
+T00092,11494.8,2026-03-26 00:25:51,Pune,Croma,Mobile,0,fraud
+T00093,25685.15,2026-04-03 18:45:51,Mumbai,Zomato,Mobile,1,fraud
+T00094,20576.67,2026-03-27 14:02:51,Hyderabad,Reliance Mart,Tablet,0,fraud
+T00095,19879.74,2026-04-04 13:32:51,Pune,Swiggy,Laptop,0,fraud
+T00096,44941.4,2026-04-07 08:40:51,Bangalore,Zomato,Tablet,1,fraud
+T00097,15076.13,2026-03-28 21:06:51,Mumbai,Amazon,Tablet,0,legit
+T00098,8942.19,2026-03-14 14:51:51,Mumbai,Zomato,Mobile,0,fraud
+T00099,47591.84,2026-03-18 20:13:51,Delhi,Croma,Tablet,0,fraud
+T00100,5938.88,2026-03-31 01:36:51,Mumbai,Flipkart,Laptop,0,fraud
+T00101,12185.21,2026-03-11 07:41:51,Bangalore,Croma,Mobile,0,fraud
+T00102,36698.03,2026-04-03 19:33:51,Chennai,Uber,Tablet,1,legit
+T00103,40077.18,2026-03-18 21:57:51,Pune,Reliance Mart,Tablet,0,fraud
+T00104,13477.32,2026-04-06 09:54:51,Pune,Zomato,Laptop,1,legit
+T00105,23666.14,2026-04-09 03:21:51,Hyderabad,Croma,Laptop,1,legit
+T00106,36523.79,2026-03-12 00:37:51,Bangalore,Amazon,Tablet,1,legit
+T00107,26592.5,2026-03-21 11:04:51,Mumbai,Reliance Mart,Tablet,0,legit
+T00108,5214.38,2026-03-28 17:59:51,Hyderabad,Swiggy,Mobile,1,legit
+T00109,27454.64,2026-04-04 04:10:51,Chennai,Reliance Mart,Mobile,1,fraud
+T00110,46542.81,2026-03-15 03:12:51,Chennai,Reliance Mart,Laptop,1,fraud
+T00111,35380.75,2026-03-23 17:31:51,Hyderabad,Croma,Laptop,0,legit
+T00112,35859.91,2026-03-27 19:05:51,Mumbai,Croma,Tablet,1,fraud
+T00113,5698.13,2026-03-12 20:56:51,Pune,Reliance Mart,Mobile,0,legit
+T00114,5933.68,2026-04-07 14:59:51,Hyderabad,Uber,Mobile,1,fraud
+T00115,2396.07,2026-04-07 16:56:51,Pune,Swiggy,Mobile,1,legit
+T00116,44112.25,2026-03-13 05:15:51,Bangalore,Zomato,Tablet,1,fraud
+T00117,1251.57,2026-03-23 15:31:51,Pune,Swiggy,Mobile,1,fraud
+T00118,23509.59,2026-03-11 23:53:51,Bangalore,Croma,Mobile,0,fraud
+T00119,44705.81,2026-04-05 03:51:51,Mumbai,Reliance Mart,Laptop,0,fraud
+T00120,15818.94,2026-03-29 14:43:51,Pune,Uber,Laptop,1,legit
+T00121,46982.13,2026-03-31 13:25:51,Bangalore,Zomato,Laptop,1,fraud
+T00122,34179.76,2026-03-23 17:05:51,Hyderabad,Zomato,Mobile,0,legit
+T00123,29888.5,2026-03-24 18:35:51,Hyderabad,Swiggy,Mobile,1,fraud
+T00124,5507.91,2026-03-24 08:37:51,Hyderabad,Amazon,Mobile,1,legit
+T00125,45062.37,2026-03-31 18:41:51,Hyderabad,Swiggy,Mobile,0,fraud
+T00126,28570.25,2026-03-27 09:17:51,Mumbai,Reliance Mart,Laptop,0,fraud
+T00127,16614.5,2026-03-16 02:12:51,Pune,Amazon,Laptop,0,legit
+T00128,31212.48,2026-03-23 22:39:51,Bangalore,Reliance Mart,Tablet,0,fraud
+T00129,1694.3,2026-03-31 12:35:51,Chennai,Amazon,Laptop,0,legit
+T00130,3222.54,2026-03-31 10:08:51,Chennai,Zomato,Mobile,0,legit
+T00131,16169.25,2026-04-03 07:18:51,Bangalore,Zomato,Tablet,0,fraud
+T00132,7972.03,2026-04-08 12:41:51,Hyderabad,Amazon,Laptop,1,legit
+T00133,27210.81,2026-03-11 00:19:51,Chennai,Croma,Tablet,0,legit
+T00134,4351.17,2026-04-03 00:00:51,Delhi,Uber,Laptop,0,fraud
+T00135,1105.12,2026-04-08 12:49:51,Hyderabad,Croma,Tablet,1,legit
+T00136,14776.88,2026-03-18 10:32:51,Delhi,Uber,Mobile,0,fraud
+T00137,32093.43,2026-03-21 09:29:51,Mumbai,Zomato,Laptop,1,legit
+T00138,44000.16,2026-04-04 06:32:51,Chennai,Swiggy,Tablet,0,legit
+T00139,28066.09,2026-03-11 22:10:51,Mumbai,Amazon,Mobile,0,fraud
+T00140,42914.17,2026-03-20 22:50:51,Pune,Zomato,Tablet,0,fraud
+T00141,33109.41,2026-03-17 16:10:51,Pune,Reliance Mart,Tablet,0,legit
+T00142,29217.98,2026-03-29 07:48:51,Pune,Uber,Mobile,1,fraud
+T00143,26355.01,2026-04-09 02:00:51,Delhi,Amazon,Tablet,0,fraud
+T00144,48223.1,2026-03-29 13:48:51,Delhi,Uber,Laptop,1,fraud
+T00145,23642.64,2026-03-27 17:20:51,Pune,Zomato,Tablet,0,fraud
+T00146,2507.2,2026-03-16 13:28:51,Hyderabad,Swiggy,Mobile,0,legit
+T00147,45905.7,2026-03-18 01:22:51,Pune,Swiggy,Laptop,1,legit
+T00148,39010.48,2026-04-07 22:13:51,Hyderabad,Flipkart,Laptop,1,fraud
+T00149,46464.62,2026-03-25 12:00:51,Bangalore,Amazon,Mobile,1,legit
+T00150,45331.22,2026-03-10 09:11:51,Chennai,Swiggy,Tablet,0,legit
+T00151,49996.69,2026-03-28 05:57:51,Bangalore,Flipkart,Mobile,0,fraud
+T00152,16891.57,2026-04-06 11:51:51,Bangalore,Zomato,Tablet,1,fraud
+T00153,44635.39,2026-04-04 17:55:51,Chennai,Zomato,Tablet,1,fraud
+T00154,8489.34,2026-03-24 20:17:51,Chennai,Reliance Mart,Tablet,1,legit
+T00155,43698.89,2026-03-25 18:14:51,Delhi,Croma,Tablet,1,legit
+T00156,25817.56,2026-04-03 00:42:51,Chennai,Zomato,Tablet,1,legit
+T00157,35380.68,2026-03-11 16:42:51,Mumbai,Flipkart,Laptop,1,fraud
+T00158,44269.96,2026-03-19 17:20:51,Mumbai,Uber,Tablet,1,legit
+T00159,820.38,2026-03-29 19:53:51,Chennai,Amazon,Tablet,1,fraud
+T00160,34906.49,2026-03-18 22:12:51,Hyderabad,Uber,Laptop,1,legit
+T00161,13287.58,2026-03-24 21:36:51,Mumbai,Swiggy,Laptop,0,fraud
+T00162,14374.23,2026-03-14 14:02:51,Delhi,Amazon,Mobile,0,legit
+T00163,39425.94,2026-03-21 12:05:51,Mumbai,Uber,Mobile,0,fraud
+T00164,28887,2026-03-11 00:30:51,Bangalore,Croma,Tablet,1,fraud
+T00165,16167.43,2026-04-07 08:40:51,Mumbai,Uber,Tablet,1,legit
+T00166,25548.29,2026-04-08 11:57:51,Hyderabad,Amazon,Mobile,0,legit
+T00167,33839.25,2026-03-11 15:39:51,Mumbai,Swiggy,Tablet,1,fraud
+T00168,4237.87,2026-03-27 11:09:51,Mumbai,Swiggy,Tablet,0,legit
+T00169,26867.73,2026-03-15 06:03:51,Bangalore,Amazon,Tablet,1,fraud
+T00170,22833.81,2026-03-20 20:51:51,Mumbai,Uber,Laptop,1,fraud
+T00171,12908.26,2026-04-04 02:24:51,Chennai,Uber,Laptop,1,fraud
+T00172,35900.44,2026-04-03 02:19:51,Chennai,Zomato,Mobile,0,fraud
+T00173,1429.7,2026-03-11 16:09:51,Hyderabad,Flipkart,Laptop,1,fraud
+T00174,43712,2026-03-24 13:52:51,Pune,Croma,Tablet,0,fraud
+T00175,25405.76,2026-03-23 08:51:51,Bangalore,Uber,Mobile,1,legit
+T00176,49803.26,2026-03-28 06:42:51,Delhi,Reliance Mart,Tablet,1,fraud
+T00177,19148.66,2026-03-21 06:01:51,Delhi,Zomato,Laptop,1,legit
+T00178,10139.16,2026-04-09 01:55:51,Hyderabad,Zomato,Tablet,1,legit
+T00179,47990.7,2026-04-08 06:53:51,Chennai,Uber,Mobile,0,fraud
+T00180,9989.56,2026-04-06 12:46:51,Chennai,Reliance Mart,Tablet,0,fraud
+T00181,25672.97,2026-03-30 12:10:51,Chennai,Uber,Tablet,1,fraud
+T00182,21643.17,2026-03-17 21:11:51,Mumbai,Amazon,Mobile,0,legit
+T00183,44787.2,2026-03-13 12:36:51,Hyderabad,Croma,Tablet,1,fraud
+T00184,34499,2026-03-16 21:48:51,Bangalore,Croma,Laptop,1,fraud
+T00185,42543.3,2026-03-25 19:30:51,Bangalore,Croma,Tablet,1,fraud
+T00186,10360.25,2026-03-22 01:20:51,Mumbai,Croma,Tablet,1,legit
+T00187,42567.52,2026-03-18 13:12:51,Mumbai,Flipkart,Mobile,0,fraud
+T00188,45450.63,2026-03-24 17:13:51,Mumbai,Uber,Laptop,1,fraud
+T00189,22783.8,2026-03-11 01:17:51,Pune,Swiggy,Tablet,1,fraud
+T00190,30824,2026-03-26 00:27:51,Bangalore,Swiggy,Laptop,1,legit
+T00191,24989.23,2026-03-21 21:44:51,Mumbai,Croma,Tablet,0,legit
+T00192,27581.2,2026-03-28 07:14:51,Chennai,Reliance Mart,Tablet,1,legit
+T00193,38735.04,2026-03-13 03:47:51,Pune,Flipkart,Laptop,1,fraud
+T00194,28559.84,2026-04-08 21:45:51,Chennai,Swiggy,Laptop,0,fraud
+T00195,49183.17,2026-03-10 06:51:51,Hyderabad,Reliance Mart,Laptop,0,fraud
+T00196,36111.87,2026-03-31 12:17:51,Chennai,Zomato,Tablet,1,fraud
+T00197,45771.12,2026-03-27 18:02:51,Hyderabad,Zomato,Tablet,0,fraud
+T00198,24897.46,2026-03-19 12:47:51,Hyderabad,Croma,Laptop,0,fraud
+T00199,15258.23,2026-03-14 00:33:51,Chennai,Reliance Mart,Tablet,0,fraud
+T00200,36536.34,2026-04-01 01:04:51,Mumbai,Swiggy,Laptop,0,legit
+T00201,32418.3,2026-03-22 18:53:51,Pune,Swiggy,Laptop,0,legit
+T00202,45001.93,2026-03-12 17:46:51,Bangalore,Reliance Mart,Mobile,1,legit
+T00203,49256.78,2026-03-30 21:26:51,Mumbai,Croma,Mobile,0,fraud
+T00204,32049.27,2026-03-15 21:43:51,Mumbai,Uber,Laptop,0,fraud
+T00205,23713.06,2026-03-25 06:18:51,Delhi,Croma,Mobile,1,legit
+T00206,25886.63,2026-04-08 18:39:51,Chennai,Amazon,Laptop,1,fraud
+T00207,43406.14,2026-03-10 15:48:51,Mumbai,Uber,Mobile,1,fraud
+T00208,10443.56,2026-04-01 00:11:51,Mumbai,Zomato,Laptop,1,fraud
+T00209,11271.71,2026-03-18 17:20:51,Mumbai,Croma,Mobile,0,fraud
+T00210,36689.12,2026-03-16 02:30:51,Mumbai,Reliance Mart,Tablet,1,legit
+T00211,48863.48,2026-03-18 08:18:51,Delhi,Croma,Laptop,1,fraud
+T00212,10552.8,2026-03-22 01:53:51,Bangalore,Swiggy,Tablet,0,fraud
+T00213,34450.15,2026-03-24 10:33:51,Hyderabad,Swiggy,Laptop,0,legit
+T00214,13877.17,2026-03-17 21:00:51,Chennai,Flipkart,Laptop,0,legit
+T00215,34965.67,2026-03-31 15:05:51,Delhi,Amazon,Laptop,1,fraud
+T00216,34618.5,2026-03-26 05:38:51,Hyderabad,Amazon,Laptop,0,legit
+T00217,11779.97,2026-04-01 14:01:51,Mumbai,Zomato,Laptop,0,fraud
+T00218,32072.45,2026-03-21 22:57:51,Bangalore,Uber,Laptop,1,fraud
+T00219,25839.61,2026-03-27 16:45:51,Chennai,Reliance Mart,Mobile,1,legit
+T00220,48140.44,2026-03-28 19:58:51,Bangalore,Swiggy,Tablet,0,fraud
+T00221,38193.68,2026-04-01 20:11:51,Pune,Uber,Laptop,0,legit
+T00222,36046.25,2026-03-21 09:31:51,Delhi,Reliance Mart,Laptop,1,fraud
+T00223,8649.4,2026-04-05 03:42:51,Mumbai,Flipkart,Laptop,0,legit
+T00224,39094.84,2026-03-27 14:41:51,Chennai,Amazon,Tablet,0,legit
+T00225,32002.45,2026-04-02 08:30:51,Delhi,Amazon,Tablet,0,fraud
+T00226,24925.28,2026-03-19 02:49:51,Delhi,Amazon,Laptop,1,fraud
+T00227,29458.26,2026-03-11 01:00:51,Chennai,Amazon,Mobile,1,legit
+T00228,26866.55,2026-03-19 21:45:51,Bangalore,Swiggy,Tablet,0,legit
+T00229,19340.25,2026-04-05 09:01:51,Delhi,Uber,Tablet,0,legit
+T00230,13176.75,2026-03-19 04:09:51,Delhi,Swiggy,Mobile,1,legit
+T00231,5725.31,2026-03-29 16:50:51,Pune,Reliance Mart,Mobile,1,legit
+T00232,31561.69,2026-03-20 17:12:51,Mumbai,Amazon,Tablet,0,legit
+T00233,36664.25,2026-03-16 11:59:51,Pune,Swiggy,Tablet,1,legit
+T00234,35948.24,2026-04-02 01:59:51,Bangalore,Swiggy,Laptop,0,fraud
+T00235,35668.5,2026-03-21 05:11:51,Chennai,Reliance Mart,Mobile,0,fraud
+T00236,28050.73,2026-03-15 22:41:51,Chennai,Reliance Mart,Tablet,1,fraud
+T00237,25161.48,2026-03-17 21:32:51,Mumbai,Amazon,Laptop,1,legit
+T00238,19658.32,2026-03-28 16:21:51,Pune,Reliance Mart,Mobile,1,fraud
+T00239,49180.32,2026-03-22 14:24:51,Pune,Amazon,Laptop,1,fraud
+T00240,19257.75,2026-04-03 07:36:51,Bangalore,Swiggy,Tablet,0,legit
+T00241,49381.52,2026-03-25 08:09:51,Bangalore,Croma,Laptop,1,fraud
+T00242,46493.32,2026-03-26 13:54:51,Pune,Flipkart,Mobile,0,fraud
+T00243,7697.52,2026-04-07 00:43:51,Mumbai,Uber,Tablet,1,legit
+T00244,34813.84,2026-03-29 05:50:51,Pune,Croma,Tablet,1,legit
+T00245,12368.48,2026-03-14 19:37:51,Chennai,Zomato,Mobile,0,legit
+T00246,13029.56,2026-03-26 10:54:51,Hyderabad,Uber,Laptop,1,legit
+T00247,43185.28,2026-03-17 12:01:51,Hyderabad,Croma,Mobile,1,legit
+T00248,35400.57,2026-03-15 11:02:51,Delhi,Uber,Mobile,1,legit
+T00249,11335.32,2026-03-14 06:56:51,Pune,Reliance Mart,Mobile,1,legit
+T00250,42533.79,2026-03-11 05:58:51,Pune,Flipkart,Tablet,1,fraud
+T00251,40266.24,2026-04-01 03:39:51,Pune,Zomato,Laptop,0,fraud
+T00252,46126.81,2026-04-02 09:54:51,Pune,Flipkart,Laptop,0,legit
+T00253,37997.72,2026-03-31 15:12:51,Delhi,Uber,Mobile,0,fraud
+T00254,30268.08,2026-03-31 10:04:51,Delhi,Amazon,Mobile,0,legit
+T00255,42054.51,2026-04-04 11:50:51,Hyderabad,Swiggy,Mobile,0,fraud
+T00256,35721.77,2026-04-06 08:21:51,Mumbai,Flipkart,Mobile,1,fraud
+T00257,28719.98,2026-03-26 10:41:51,Pune,Reliance Mart,Tablet,0,fraud
+T00258,9543.67,2026-03-25 06:29:51,Mumbai,Uber,Tablet,0,fraud
+T00259,38904.32,2026-03-24 01:25:51,Pune,Reliance Mart,Tablet,1,fraud
+T00260,33528.69,2026-03-15 13:04:51,Chennai,Zomato,Tablet,0,legit
+T00261,34987.11,2026-03-28 16:39:51,Delhi,Swiggy,Mobile,0,legit
+T00262,12490.35,2026-03-31 17:08:51,Hyderabad,Swiggy,Tablet,0,legit
+T00263,13891.21,2026-03-30 03:55:51,Delhi,Amazon,Mobile,0,fraud
+T00264,10846.26,2026-03-10 12:24:51,Hyderabad,Amazon,Tablet,1,fraud
+T00265,27856.37,2026-03-26 09:10:51,Delhi,Uber,Laptop,1,fraud
+T00266,22181.28,2026-03-20 23:27:51,Bangalore,Croma,Mobile,0,legit
+T00267,6809.4,2026-03-15 13:39:51,Chennai,Croma,Tablet,1,legit
+T00268,40638.26,2026-03-19 04:55:51,Delhi,Amazon,Tablet,1,fraud
+T00269,22222.47,2026-04-03 06:56:51,Pune,Amazon,Tablet,1,fraud
+T00270,27936.37,2026-04-01 22:25:51,Hyderabad,Amazon,Laptop,0,legit
+T00271,28129.25,2026-04-07 05:24:51,Delhi,Croma,Laptop,0,fraud
+T00272,13949.86,2026-03-11 12:43:51,Delhi,Amazon,Tablet,1,fraud
+T00273,36161.1,2026-03-11 00:19:51,Hyderabad,Amazon,Tablet,1,fraud
+T00274,49222.06,2026-03-13 07:26:51,Chennai,Flipkart,Tablet,1,legit
+T00275,37726.51,2026-03-29 03:06:51,Bangalore,Reliance Mart,Mobile,0,legit
+T00276,45057.73,2026-04-08 07:10:51,Chennai,Swiggy,Laptop,1,fraud
+T00277,702.1,2026-03-14 12:51:51,Mumbai,Croma,Laptop,0,legit
+T00278,4803.67,2026-03-12 14:08:51,Mumbai,Amazon,Mobile,1,fraud
+T00279,8406.53,2026-03-25 02:51:51,Delhi,Zomato,Tablet,1,fraud
+T00280,13904.54,2026-03-26 07:47:51,Bangalore,Uber,Tablet,0,fraud
+T00281,30534.38,2026-03-30 23:35:51,Pune,Zomato,Tablet,0,fraud
+T00282,7174.19,2026-03-16 02:29:51,Bangalore,Flipkart,Laptop,0,legit
+T00283,34773.76,2026-03-25 06:17:51,Hyderabad,Amazon,Laptop,1,fraud
+T00284,39379.71,2026-04-05 06:46:51,Chennai,Croma,Laptop,0,fraud
+T00285,3364.16,2026-03-20 00:43:51,Chennai,Reliance Mart,Mobile,0,fraud
+T00286,40629.04,2026-03-20 09:56:51,Pune,Zomato,Mobile,0,fraud
+T00287,14461.9,2026-03-22 21:08:51,Mumbai,Zomato,Tablet,1,legit
+T00288,26139.66,2026-03-28 09:14:51,Pune,Flipkart,Laptop,0,legit
+T00289,14420.07,2026-03-19 06:19:51,Pune,Flipkart,Tablet,1,legit
+T00290,1675.91,2026-03-17 02:58:51,Mumbai,Amazon,Laptop,0,legit
+T00291,40876.12,2026-03-12 22:00:51,Chennai,Zomato,Mobile,0,legit
+T00292,21361.03,2026-03-14 17:57:51,Hyderabad,Amazon,Mobile,0,fraud
+T00293,37263.41,2026-04-07 01:37:51,Hyderabad,Uber,Tablet,1,fraud
+T00294,41197.86,2026-03-30 16:49:51,Hyderabad,Zomato,Mobile,1,legit
+T00295,13987.55,2026-03-22 10:01:51,Delhi,Flipkart,Laptop,1,legit
+T00296,21798.36,2026-03-14 19:16:51,Mumbai,Zomato,Laptop,0,fraud
+T00297,33979.43,2026-03-15 20:55:51,Delhi,Swiggy,Laptop,0,legit
+T00298,40098.16,2026-03-30 01:13:51,Chennai,Uber,Laptop,0,legit
+T00299,49603.36,2026-03-30 21:41:51,Hyderabad,Flipkart,Tablet,1,fraud
+T00300,39135.38,2026-03-28 08:05:51,Hyderabad,Reliance Mart,Laptop,1,fraud
+T00301,16501.65,2026-03-27 08:45:51,Hyderabad,Reliance Mart,Laptop,1,fraud
+T00302,30341.12,2026-03-21 09:01:51,Chennai,Uber,Mobile,0,fraud
+T00303,6553.95,2026-03-24 12:11:51,Bangalore,Croma,Mobile,1,legit
+T00304,41321.16,2026-04-02 15:09:51,Hyderabad,Amazon,Mobile,0,fraud
+T00305,44215.82,2026-03-31 01:29:51,Hyderabad,Reliance Mart,Mobile,1,legit
+T00306,21431.9,2026-03-26 10:34:51,Mumbai,Croma,Mobile,1,fraud
+T00307,28885.79,2026-03-15 23:36:51,Mumbai,Zomato,Mobile,0,fraud
+T00308,38008.23,2026-04-09 00:14:51,Bangalore,Uber,Mobile,1,legit
+T00309,41865.01,2026-03-23 04:43:51,Hyderabad,Flipkart,Mobile,0,legit
+T00310,26658.71,2026-03-23 23:59:51,Mumbai,Croma,Tablet,1,fraud
+T00311,43017.29,2026-03-21 16:53:51,Chennai,Reliance Mart,Laptop,0,fraud
+T00312,35242,2026-03-17 16:45:51,Delhi,Flipkart,Mobile,1,legit
+T00313,15106.14,2026-03-20 23:16:51,Chennai,Croma,Tablet,0,fraud
+T00314,45181.99,2026-03-31 15:24:51,Chennai,Swiggy,Laptop,1,legit
+T00315,43112.94,2026-03-19 10:16:51,Mumbai,Uber,Mobile,0,legit
+T00316,46477.13,2026-03-14 03:00:51,Mumbai,Croma,Tablet,0,legit
+T00317,48641.06,2026-04-06 11:00:51,Hyderabad,Amazon,Laptop,1,fraud
+T00318,46978.99,2026-03-13 19:58:51,Pune,Flipkart,Laptop,0,fraud
+T00319,46876.42,2026-03-30 18:13:51,Hyderabad,Croma,Laptop,0,fraud
+T00320,18127.87,2026-03-31 03:29:51,Mumbai,Swiggy,Laptop,1,legit
+T00321,28616.35,2026-03-13 08:18:51,Mumbai,Croma,Mobile,0,fraud
+T00322,20711.74,2026-04-01 19:47:51,Bangalore,Zomato,Mobile,0,legit
+T00323,8937.64,2026-03-14 10:25:51,Chennai,Reliance Mart,Laptop,1,fraud
+T00324,2799.17,2026-03-29 00:59:51,Pune,Swiggy,Laptop,1,fraud
+T00325,22031.83,2026-03-10 08:03:51,Pune,Amazon,Mobile,1,fraud
+T00326,18316.41,2026-04-05 23:27:51,Delhi,Zomato,Laptop,0,legit
+T00327,18386.87,2026-03-23 04:38:51,Chennai,Uber,Laptop,0,fraud
+T00328,37916.98,2026-03-21 14:44:51,Bangalore,Amazon,Tablet,0,fraud
+T00329,30343.92,2026-04-06 11:43:51,Chennai,Flipkart,Tablet,1,legit
+T00330,13462.22,2026-04-01 04:52:51,Mumbai,Reliance Mart,Laptop,1,legit
+T00331,30187.62,2026-03-12 13:53:51,Hyderabad,Zomato,Laptop,1,legit
+T00332,22366.19,2026-03-10 10:45:51,Bangalore,Reliance Mart,Tablet,1,legit
+T00333,46476.81,2026-04-09 02:59:51,Delhi,Zomato,Laptop,1,legit
+T00334,28359.6,2026-03-14 05:44:51,Mumbai,Zomato,Tablet,1,legit
+T00335,16665.8,2026-03-22 12:49:51,Hyderabad,Flipkart,Tablet,0,fraud
+T00336,47655.61,2026-04-05 05:41:51,Chennai,Swiggy,Tablet,0,fraud
+T00337,5987.19,2026-04-05 08:03:51,Pune,Reliance Mart,Laptop,1,legit
+T00338,27316.1,2026-03-16 05:31:51,Chennai,Reliance Mart,Mobile,0,legit
+T00339,10718.72,2026-03-25 02:51:51,Pune,Croma,Mobile,1,legit
+T00340,37080.07,2026-03-14 04:16:51,Bangalore,Amazon,Laptop,1,legit
+T00341,18701.33,2026-03-24 04:06:51,Chennai,Amazon,Laptop,1,legit
+T00342,31388.99,2026-03-11 23:12:51,Bangalore,Amazon,Laptop,1,legit
+T00343,22294.08,2026-03-13 03:53:51,Pune,Amazon,Tablet,0,fraud
+T00344,25058.3,2026-03-23 01:23:51,Chennai,Amazon,Mobile,1,legit
+T00345,5831.51,2026-04-07 08:20:51,Delhi,Flipkart,Mobile,0,legit
+T00346,40430.42,2026-04-05 14:58:51,Pune,Uber,Tablet,0,fraud
+T00347,3884.71,2026-03-15 12:15:51,Pune,Swiggy,Laptop,1,legit
+T00348,15884.48,2026-03-24 10:48:51,Delhi,Reliance Mart,Laptop,1,legit
+T00349,37620.44,2026-03-22 14:35:51,Chennai,Croma,Tablet,1,legit
+T00350,34585.52,2026-03-13 11:38:51,Chennai,Zomato,Mobile,0,fraud
+T00351,6801.21,2026-03-17 15:02:51,Hyderabad,Uber,Mobile,0,legit
+T00352,1440.66,2026-03-16 20:58:51,Mumbai,Reliance Mart,Mobile,1,fraud
+T00353,858.3,2026-04-06 17:21:51,Hyderabad,Uber,Laptop,1,fraud
+T00354,45591.6,2026-03-10 08:51:51,Chennai,Croma,Tablet,0,legit
+T00355,27599.42,2026-04-08 02:34:51,Pune,Zomato,Mobile,0,legit
+T00356,47616.39,2026-03-22 05:59:51,Bangalore,Uber,Laptop,1,legit
+T00357,42362.37,2026-04-06 06:27:51,Pune,Reliance Mart,Tablet,0,fraud
+T00358,8821.34,2026-03-15 07:57:51,Bangalore,Amazon,Tablet,1,fraud
+T00359,24214.46,2026-03-26 19:04:51,Mumbai,Amazon,Laptop,1,fraud
+T00360,21638.93,2026-03-13 18:47:51,Mumbai,Amazon,Mobile,1,fraud
+T00361,39019.78,2026-03-24 10:34:51,Pune,Amazon,Tablet,1,fraud
+T00362,4688.52,2026-03-24 18:43:51,Hyderabad,Zomato,Laptop,0,legit
+T00363,16986.04,2026-03-21 23:04:51,Delhi,Reliance Mart,Tablet,1,legit
+T00364,1787.2,2026-03-12 20:10:51,Bangalore,Swiggy,Laptop,0,fraud
+T00365,20128.31,2026-03-24 03:40:51,Chennai,Croma,Laptop,1,fraud
+T00366,1998.17,2026-03-21 12:00:51,Mumbai,Amazon,Mobile,1,legit
+T00367,9517.18,2026-03-30 01:50:51,Chennai,Flipkart,Mobile,1,fraud
+T00368,48481.02,2026-03-20 07:26:51,Bangalore,Flipkart,Mobile,1,legit
+T00369,27318.53,2026-03-18 13:35:51,Chennai,Reliance Mart,Laptop,0,legit
+T00370,48143.85,2026-03-31 02:30:51,Delhi,Flipkart,Laptop,0,fraud
+T00371,1811.16,2026-04-06 09:28:51,Pune,Amazon,Laptop,0,legit
+T00372,43089.95,2026-03-26 10:21:51,Delhi,Amazon,Tablet,0,legit
+T00373,33963.83,2026-04-02 16:17:51,Delhi,Uber,Mobile,0,fraud
+T00374,24515.12,2026-04-09 03:03:51,Mumbai,Swiggy,Mobile,1,fraud
+T00375,5743.72,2026-03-18 20:58:51,Mumbai,Zomato,Laptop,1,fraud
+T00376,23186.42,2026-03-23 22:26:51,Bangalore,Flipkart,Laptop,0,fraud
+T00377,38019.95,2026-03-25 22:15:51,Chennai,Amazon,Mobile,0,legit
+T00378,21387.84,2026-03-20 02:02:51,Chennai,Uber,Laptop,0,fraud
+T00379,24531.03,2026-03-13 14:05:51,Hyderabad,Croma,Laptop,0,fraud
+T00380,23379.93,2026-03-30 22:30:51,Hyderabad,Swiggy,Laptop,1,legit
+T00381,11203.49,2026-04-05 14:55:51,Mumbai,Flipkart,Laptop,0,legit
+T00382,31989.79,2026-04-06 01:31:51,Delhi,Amazon,Mobile,1,fraud
+T00383,41046.47,2026-03-11 08:38:51,Chennai,Croma,Tablet,1,legit
+T00384,11034.58,2026-04-02 10:14:51,Bangalore,Zomato,Tablet,1,legit
+T00385,48613.01,2026-03-30 12:48:51,Delhi,Zomato,Tablet,0,legit
+T00386,32361.39,2026-03-28 15:01:51,Pune,Zomato,Laptop,0,fraud
+T00387,43050.42,2026-03-25 02:57:51,Bangalore,Uber,Tablet,0,legit
+T00388,10260.28,2026-03-24 20:18:51,Delhi,Amazon,Tablet,0,legit
+T00389,33236.71,2026-03-13 05:07:51,Hyderabad,Uber,Tablet,1,legit
+T00390,2708.6,2026-03-16 00:15:51,Delhi,Uber,Mobile,1,fraud
+T00391,5526.98,2026-03-17 08:07:51,Pune,Zomato,Mobile,0,fraud
+T00392,23727.54,2026-04-02 07:00:51,Bangalore,Flipkart,Mobile,0,fraud
+T00393,17112.25,2026-03-26 08:34:51,Hyderabad,Croma,Mobile,0,fraud
+T00394,2178.56,2026-04-07 13:22:51,Chennai,Flipkart,Laptop,1,fraud
+T00395,38243.7,2026-04-02 02:24:51,Bangalore,Croma,Laptop,0,fraud
+T00396,13702.3,2026-03-31 04:20:51,Delhi,Amazon,Mobile,0,fraud
+T00397,46857.27,2026-03-31 00:23:51,Pune,Reliance Mart,Tablet,1,legit
+T00398,1401.66,2026-03-31 03:31:51,Bangalore,Croma,Tablet,1,legit
+T00399,2118.53,2026-04-04 13:08:51,Bangalore,Amazon,Laptop,0,legit
+T00400,19487.86,2026-03-30 15:04:51,Mumbai,Reliance Mart,Mobile,1,legit
+T00401,44913.83,2026-03-30 20:09:51,Bangalore,Croma,Tablet,0,fraud
+T00402,18631.56,2026-03-23 02:51:51,Bangalore,Flipkart,Laptop,0,legit
+T00403,37073.98,2026-03-28 22:55:51,Delhi,Swiggy,Mobile,1,fraud
+T00404,25296.58,2026-03-29 06:30:51,Pune,Reliance Mart,Mobile,1,legit
+T00405,15241.34,2026-03-28 06:04:51,Chennai,Croma,Laptop,0,fraud
+T00406,40713.13,2026-03-13 04:11:51,Hyderabad,Flipkart,Mobile,0,legit
+T00407,4844.35,2026-04-03 14:35:51,Delhi,Amazon,Laptop,1,fraud
+T00408,22165.87,2026-03-24 15:35:51,Hyderabad,Amazon,Mobile,0,fraud
+T00409,8650.75,2026-03-15 04:19:51,Bangalore,Zomato,Laptop,0,fraud
+T00410,16613.08,2026-03-25 10:36:51,Delhi,Amazon,Laptop,1,fraud
+T00411,19233.6,2026-03-15 23:38:51,Pune,Swiggy,Tablet,1,legit
+T00412,21595.29,2026-03-29 03:24:51,Hyderabad,Amazon,Laptop,1,legit
+T00413,27790.44,2026-03-16 10:36:51,Chennai,Uber,Tablet,0,fraud
+T00414,3224.18,2026-03-30 15:03:51,Pune,Reliance Mart,Mobile,1,legit
+T00415,9673.18,2026-03-23 05:54:51,Hyderabad,Swiggy,Tablet,1,legit
+T00416,17750.94,2026-03-30 03:14:51,Hyderabad,Zomato,Tablet,1,legit
+T00417,14926.12,2026-03-15 23:36:51,Pune,Zomato,Laptop,1,fraud
+T00418,28329.62,2026-04-06 10:10:51,Mumbai,Amazon,Mobile,0,legit
+T00419,4693.62,2026-03-12 23:23:51,Bangalore,Flipkart,Laptop,0,fraud
+T00420,23319.19,2026-03-21 23:20:51,Bangalore,Reliance Mart,Laptop,1,fraud
+T00421,28732.04,2026-03-11 10:17:51,Delhi,Reliance Mart,Laptop,0,fraud
+T00422,28954.39,2026-04-05 22:06:51,Delhi,Zomato,Tablet,1,legit
+T00423,41584.1,2026-03-16 01:48:51,Chennai,Swiggy,Mobile,0,legit
+T00424,15434.94,2026-03-25 07:52:51,Pune,Amazon,Tablet,0,fraud
+T00425,15539.87,2026-03-16 21:03:51,Bangalore,Reliance Mart,Laptop,0,legit
+T00426,28560.71,2026-03-27 14:57:51,Pune,Swiggy,Tablet,0,legit
+T00427,15112.62,2026-04-05 10:48:51,Hyderabad,Amazon,Laptop,0,fraud
+T00428,19735.76,2026-03-23 19:08:51,Mumbai,Amazon,Mobile,1,legit
+T00429,40941.44,2026-03-28 02:20:51,Hyderabad,Swiggy,Tablet,0,fraud
+T00430,12686.99,2026-03-22 08:04:51,Pune,Uber,Mobile,0,legit
+T00431,34253.49,2026-03-25 08:46:51,Mumbai,Uber,Mobile,1,fraud
+T00432,15923.11,2026-03-28 19:12:51,Pune,Swiggy,Laptop,0,legit
+T00433,36643.45,2026-03-31 01:59:51,Delhi,Uber,Mobile,1,legit
+T00434,25445.22,2026-03-22 06:55:51,Pune,Flipkart,Tablet,1,fraud
+T00435,7965.94,2026-04-02 12:16:51,Delhi,Amazon,Tablet,1,legit
+T00436,40407.66,2026-03-13 21:19:51,Hyderabad,Swiggy,Laptop,0,fraud
+T00437,5638.61,2026-04-04 20:32:51,Hyderabad,Flipkart,Mobile,0,fraud
+T00438,49420.76,2026-03-30 14:00:51,Delhi,Flipkart,Laptop,0,fraud
+T00439,22734.48,2026-04-05 17:06:51,Delhi,Zomato,Tablet,0,legit
+T00440,28843.84,2026-04-01 02:01:51,Mumbai,Croma,Laptop,0,fraud
+T00441,25834.78,2026-03-26 21:26:51,Pune,Flipkart,Tablet,0,legit
+T00442,806.13,2026-03-25 03:31:51,Pune,Uber,Tablet,1,fraud
+T00443,36796.2,2026-03-24 06:49:51,Pune,Zomato,Tablet,0,legit
+T00444,19362.42,2026-03-16 11:33:51,Mumbai,Swiggy,Tablet,0,fraud
+T00445,21646.24,2026-03-10 08:12:51,Pune,Uber,Laptop,1,legit
+T00446,25818.21,2026-04-02 21:04:51,Hyderabad,Reliance Mart,Laptop,0,fraud
+T00447,22446.8,2026-03-21 22:31:51,Bangalore,Swiggy,Tablet,0,fraud
+T00448,30737.81,2026-03-12 06:37:51,Mumbai,Uber,Laptop,0,legit
+T00449,28075.65,2026-04-05 11:17:51,Bangalore,Flipkart,Mobile,0,legit
+T00450,48769.08,2026-03-30 19:15:51,Bangalore,Reliance Mart,Laptop,0,legit
+T00451,24826.84,2026-03-22 03:18:51,Bangalore,Amazon,Laptop,0,legit
+T00452,5282.03,2026-03-25 12:49:51,Bangalore,Zomato,Mobile,1,legit
+T00453,16603.61,2026-03-20 05:39:51,Bangalore,Flipkart,Mobile,1,legit
+T00454,36036.34,2026-03-27 22:20:51,Bangalore,Uber,Mobile,0,fraud
+T00455,42198.84,2026-03-26 17:50:51,Hyderabad,Zomato,Mobile,0,fraud
+T00456,18900.65,2026-04-03 04:56:51,Mumbai,Amazon,Laptop,0,fraud
+T00457,36283.29,2026-03-13 17:40:51,Delhi,Uber,Mobile,0,fraud
+T00458,3721.52,2026-03-19 15:21:51,Bangalore,Amazon,Mobile,0,legit
+T00459,46783.45,2026-04-07 07:17:51,Bangalore,Uber,Tablet,1,fraud
+T00460,38856.27,2026-04-05 22:39:51,Delhi,Zomato,Tablet,0,legit
+T00461,28717.06,2026-03-20 20:58:51,Mumbai,Flipkart,Tablet,1,legit
+T00462,6287.82,2026-03-25 12:34:51,Pune,Zomato,Tablet,1,fraud
+T00463,32132.44,2026-04-01 09:46:51,Pune,Flipkart,Laptop,1,legit
+T00464,7445.92,2026-03-20 21:00:51,Hyderabad,Uber,Mobile,0,legit
+T00465,5180.34,2026-03-22 21:38:51,Hyderabad,Uber,Mobile,0,legit
+T00466,11198.44,2026-04-07 22:11:51,Delhi,Flipkart,Mobile,1,legit
+T00467,40949.06,2026-03-25 03:50:51,Chennai,Croma,Tablet,1,fraud
+T00468,39878.32,2026-04-04 09:32:51,Bangalore,Reliance Mart,Laptop,1,legit
+T00469,37613.12,2026-03-29 00:57:51,Chennai,Amazon,Mobile,0,fraud
+T00470,31402.07,2026-03-23 20:56:51,Bangalore,Zomato,Laptop,1,fraud
+T00471,13109.93,2026-03-23 09:26:51,Pune,Amazon,Tablet,1,fraud
+T00472,39552.91,2026-03-15 05:20:51,Delhi,Uber,Laptop,0,fraud
+T00473,25209.57,2026-04-06 01:33:51,Hyderabad,Amazon,Tablet,0,fraud
+T00474,40154.89,2026-03-10 16:24:51,Chennai,Croma,Laptop,1,fraud
+T00475,17588.41,2026-04-04 15:11:51,Hyderabad,Flipkart,Tablet,0,legit
+T00476,11351.81,2026-03-13 23:36:51,Mumbai,Amazon,Tablet,1,fraud
+T00477,48750.74,2026-03-24 16:10:51,Mumbai,Flipkart,Mobile,1,legit
+T00478,7969.26,2026-03-11 05:19:51,Pune,Amazon,Tablet,1,legit
+T00479,9961.38,2026-03-31 19:19:51,Bangalore,Uber,Laptop,1,fraud
+T00480,9321.95,2026-03-21 02:40:51,Delhi,Uber,Mobile,1,fraud
+T00481,33670.09,2026-03-24 20:41:51,Chennai,Uber,Tablet,1,legit
+T00482,34632.5,2026-03-31 17:57:51,Pune,Flipkart,Laptop,0,fraud
+T00483,38844.54,2026-03-10 07:22:51,Bangalore,Reliance Mart,Laptop,0,fraud
+T00484,841.84,2026-04-02 12:29:51,Hyderabad,Flipkart,Tablet,1,fraud
+T00485,46591.68,2026-03-24 23:14:51,Hyderabad,Reliance Mart,Mobile,1,legit
+T00486,27261.61,2026-04-04 19:00:51,Chennai,Swiggy,Laptop,1,legit
+T00487,33342.8,2026-04-01 03:06:51,Hyderabad,Swiggy,Mobile,1,legit
+T00488,12264.31,2026-04-03 03:49:51,Pune,Reliance Mart,Mobile,0,legit
+T00489,39050.37,2026-04-05 00:58:51,Chennai,Reliance Mart,Tablet,1,legit
+T00490,49998.45,2026-03-11 18:41:51,Delhi,Swiggy,Laptop,0,legit
+T00491,30326.94,2026-03-25 18:31:51,Mumbai,Reliance Mart,Tablet,1,legit
+T00492,14094.5,2026-03-17 12:20:51,Bangalore,Reliance Mart,Laptop,1,legit
+T00493,8995.09,2026-04-08 19:38:51,Chennai,Flipkart,Laptop,0,legit
+T00494,42351.18,2026-03-30 11:17:51,Pune,Reliance Mart,Mobile,0,legit
+T00495,14660.95,2026-03-27 18:03:51,Delhi,Reliance Mart,Mobile,1,fraud
+T00496,46986.42,2026-03-13 09:33:51,Delhi,Reliance Mart,Tablet,0,legit
+T00497,43383.1,2026-03-26 19:38:51,Mumbai,Flipkart,Mobile,0,fraud
+T00498,24540.14,2026-03-10 15:48:51,Hyderabad,Croma,Tablet,0,fraud
+T00499,39865.4,2026-03-16 19:25:51,Hyderabad,Croma,Laptop,1,legit
+T00500,17741.86,2026-03-21 21:13:51,Chennai,Zomato,Tablet,0,fraud
+T00501,9659.17,2026-04-02 14:51:51,Chennai,Zomato,Laptop,0,fraud
+T00502,43700.09,2026-04-03 20:34:51,Bangalore,Swiggy,Mobile,0,fraud
+T00503,24692.59,2026-03-21 00:48:51,Bangalore,Zomato,Laptop,0,fraud
+T00504,11765.9,2026-03-29 16:35:51,Delhi,Croma,Laptop,0,legit
+T00505,32710.79,2026-03-25 13:41:51,Chennai,Uber,Tablet,0,legit
+T00506,21646.83,2026-03-31 20:32:51,Hyderabad,Uber,Mobile,0,legit
+T00507,5126.86,2026-03-19 19:36:51,Delhi,Zomato,Mobile,0,legit
+T00508,42083.61,2026-03-15 17:03:51,Chennai,Uber,Laptop,1,legit
+T00509,34831.73,2026-03-22 11:24:51,Chennai,Flipkart,Tablet,1,legit
+T00510,13885.4,2026-04-04 20:25:51,Mumbai,Amazon,Mobile,0,fraud
+T00511,9635.83,2026-04-08 05:08:51,Pune,Flipkart,Laptop,0,fraud
+T00512,17210.57,2026-03-25 19:10:51,Bangalore,Croma,Laptop,0,legit
+T00513,3608.46,2026-03-27 07:00:51,Mumbai,Reliance Mart,Tablet,0,legit
+T00514,20903.21,2026-03-29 09:53:51,Hyderabad,Croma,Mobile,0,legit
+T00515,39814.66,2026-03-13 12:16:51,Bangalore,Flipkart,Tablet,0,fraud
+T00516,35998.61,2026-03-22 00:29:51,Delhi,Flipkart,Mobile,0,fraud
+T00517,28819.8,2026-03-22 09:25:51,Hyderabad,Amazon,Mobile,1,fraud
+T00518,48614.12,2026-04-01 17:46:51,Mumbai,Zomato,Laptop,0,legit
+T00519,36432.69,2026-04-05 23:24:51,Hyderabad,Zomato,Tablet,1,fraud
+T00520,24102.07,2026-03-31 09:45:51,Mumbai,Swiggy,Laptop,1,fraud
+T00521,14091.12,2026-04-02 12:34:51,Mumbai,Flipkart,Mobile,1,legit
+T00522,24043.16,2026-03-19 18:43:51,Chennai,Flipkart,Laptop,0,legit
+T00523,35697.09,2026-03-14 21:54:51,Mumbai,Uber,Laptop,0,fraud
+T00524,7453.57,2026-04-03 18:47:51,Delhi,Swiggy,Tablet,1,legit
+T00525,35020.28,2026-03-11 00:36:51,Hyderabad,Reliance Mart,Laptop,0,legit
+T00526,17033.33,2026-03-23 07:25:51,Delhi,Swiggy,Laptop,0,fraud
+T00527,12935.74,2026-04-04 21:44:51,Hyderabad,Reliance Mart,Laptop,0,legit
+T00528,6777.49,2026-04-05 02:21:51,Delhi,Croma,Tablet,1,legit
+T00529,18330.71,2026-03-26 15:36:51,Hyderabad,Croma,Tablet,0,fraud
+T00530,9025.71,2026-04-08 07:57:51,Delhi,Zomato,Tablet,1,legit
+T00531,35964.57,2026-03-27 19:54:51,Bangalore,Croma,Mobile,1,legit
+T00532,2802.94,2026-04-08 17:41:51,Mumbai,Reliance Mart,Mobile,0,fraud
+T00533,44146.27,2026-03-13 03:47:51,Delhi,Flipkart,Tablet,0,legit
+T00534,13747.09,2026-03-25 05:50:51,Bangalore,Zomato,Laptop,1,fraud
+T00535,48566.88,2026-04-09 00:31:51,Delhi,Croma,Laptop,0,fraud
+T00536,18333.02,2026-04-02 22:36:51,Delhi,Uber,Mobile,1,legit
+T00537,4868.56,2026-04-06 07:13:51,Delhi,Uber,Laptop,1,fraud
+T00538,34519.89,2026-03-29 20:39:51,Delhi,Amazon,Tablet,1,fraud
+T00539,46616.53,2026-03-29 04:05:51,Hyderabad,Zomato,Mobile,1,fraud
+T00540,28607.3,2026-03-20 20:36:51,Delhi,Croma,Tablet,1,fraud
+T00541,25304.42,2026-03-28 14:02:51,Mumbai,Flipkart,Mobile,1,fraud
+T00542,38611.53,2026-04-06 07:25:51,Pune,Reliance Mart,Laptop,1,fraud
+T00543,46754.4,2026-04-04 09:24:51,Bangalore,Amazon,Tablet,1,fraud
+T00544,35869.48,2026-03-18 14:39:51,Hyderabad,Swiggy,Tablet,0,fraud
+T00545,35346.45,2026-03-25 19:46:51,Pune,Swiggy,Tablet,1,fraud
+T00546,1019.56,2026-03-17 04:35:51,Chennai,Flipkart,Laptop,0,legit
+T00547,724.05,2026-03-21 01:27:51,Hyderabad,Zomato,Tablet,0,fraud
+T00548,46489.5,2026-03-13 16:46:51,Chennai,Flipkart,Mobile,0,fraud
+T00549,1563.95,2026-03-26 21:04:51,Pune,Uber,Tablet,0,fraud
+T00550,8873.89,2026-03-19 00:06:51,Hyderabad,Croma,Mobile,0,fraud
+T00551,23326.64,2026-03-19 20:54:51,Bangalore,Amazon,Mobile,0,fraud
+T00552,10270.08,2026-03-29 00:05:51,Delhi,Flipkart,Tablet,1,legit
+T00553,3246.6,2026-03-29 01:21:51,Pune,Croma,Tablet,1,legit
+T00554,92.01,2026-04-05 10:21:51,Mumbai,Uber,Mobile,1,legit
+T00555,46251.21,2026-03-14 04:43:51,Chennai,Uber,Laptop,0,legit
+T00556,36573.71,2026-03-16 04:16:51,Pune,Zomato,Laptop,0,fraud
+T00557,20318.05,2026-03-19 22:32:51,Pune,Uber,Tablet,0,legit
+T00558,10273.14,2026-04-08 11:40:51,Mumbai,Zomato,Mobile,1,fraud
+T00559,32758.28,2026-03-25 12:31:51,Chennai,Uber,Tablet,1,legit
+T00560,40760.31,2026-03-21 12:07:51,Delhi,Reliance Mart,Mobile,1,fraud
+T00561,35927.98,2026-03-11 17:50:51,Delhi,Zomato,Tablet,0,legit
+T00562,14837.5,2026-03-29 06:24:51,Hyderabad,Croma,Laptop,1,legit
+T00563,29188.25,2026-03-20 19:04:51,Hyderabad,Reliance Mart,Laptop,0,fraud
+T00564,873.71,2026-03-26 01:28:51,Pune,Amazon,Tablet,0,fraud
+T00565,39124.01,2026-03-24 17:36:51,Pune,Flipkart,Laptop,1,legit
+T00566,38346.45,2026-03-21 13:54:51,Hyderabad,Zomato,Tablet,0,legit
+T00567,182.68,2026-04-06 05:19:51,Bangalore,Croma,Tablet,0,fraud
+T00568,44096.98,2026-03-25 10:06:51,Bangalore,Flipkart,Tablet,0,fraud
+T00569,27031.13,2026-03-14 11:16:51,Pune,Zomato,Tablet,0,fraud
+T00570,2650.79,2026-04-04 17:42:51,Pune,Croma,Laptop,0,legit
+T00571,653.47,2026-03-10 22:37:51,Hyderabad,Reliance Mart,Mobile,0,fraud
+T00572,25140.22,2026-03-21 10:22:51,Pune,Uber,Tablet,0,legit
+T00573,19273.32,2026-03-27 08:08:51,Chennai,Zomato,Mobile,0,legit
+T00574,38825.08,2026-03-26 05:02:51,Chennai,Zomato,Tablet,1,fraud
+T00575,8659.7,2026-03-26 22:39:51,Delhi,Croma,Tablet,0,fraud
+T00576,6298.1,2026-04-05 10:22:51,Pune,Zomato,Tablet,1,legit
+T00577,6034.98,2026-04-03 22:34:51,Hyderabad,Reliance Mart,Tablet,1,legit
+T00578,25570.48,2026-03-15 10:08:51,Mumbai,Swiggy,Tablet,0,legit
+T00579,41437.94,2026-03-21 12:45:51,Bangalore,Croma,Laptop,0,legit
+T00580,5058.27,2026-04-09 02:55:51,Chennai,Swiggy,Tablet,1,fraud
+T00581,41688.59,2026-03-31 22:47:51,Delhi,Uber,Mobile,0,fraud
+T00582,5631.86,2026-03-30 04:35:51,Mumbai,Swiggy,Mobile,0,legit
+T00583,5704.39,2026-03-19 19:54:51,Delhi,Amazon,Tablet,1,legit
+T00584,30772.44,2026-04-04 10:34:51,Pune,Croma,Mobile,1,legit
+T00585,23855.85,2026-03-29 11:00:51,Delhi,Uber,Laptop,0,legit
+T00586,8456.81,2026-03-21 09:20:51,Chennai,Flipkart,Mobile,0,fraud
+T00587,46594.79,2026-03-18 22:08:51,Hyderabad,Zomato,Mobile,0,fraud
+T00588,9631.41,2026-03-20 12:00:51,Chennai,Swiggy,Tablet,1,legit
+T00589,43605,2026-03-14 17:37:51,Mumbai,Amazon,Tablet,0,legit
+T00590,11476.71,2026-04-01 11:38:51,Chennai,Amazon,Tablet,1,legit
+T00591,19884.85,2026-04-03 21:40:51,Delhi,Uber,Laptop,1,legit
+T00592,16147.42,2026-03-20 11:36:51,Hyderabad,Croma,Mobile,0,fraud
+T00593,38000.02,2026-03-13 19:19:51,Pune,Reliance Mart,Tablet,0,legit
+T00594,32209.89,2026-04-04 00:55:51,Hyderabad,Croma,Laptop,1,fraud
+T00595,49945.45,2026-03-12 19:44:51,Mumbai,Flipkart,Tablet,0,legit
+T00596,40788.01,2026-04-07 07:45:51,Delhi,Croma,Tablet,1,legit
+T00597,46067.14,2026-04-08 12:02:51,Chennai,Swiggy,Laptop,0,fraud
+T00598,47071.6,2026-04-01 09:15:51,Chennai,Reliance Mart,Tablet,0,fraud
+T00599,21777.99,2026-03-14 08:18:51,Pune,Zomato,Mobile,1,fraud
+T00600,7513.36,2026-04-06 19:10:51,Chennai,Flipkart,Laptop,1,fraud
+T00601,2718.44,2026-03-31 03:39:51,Bangalore,Uber,Laptop,0,fraud
+T00602,24617.9,2026-04-07 20:57:51,Mumbai,Swiggy,Laptop,0,legit
+T00603,22083.41,2026-03-15 08:25:51,Hyderabad,Amazon,Mobile,1,legit
+T00604,41839.61,2026-04-05 20:59:51,Bangalore,Swiggy,Tablet,0,fraud
+T00605,891.11,2026-03-17 07:28:51,Pune,Croma,Laptop,1,fraud
+T00606,24631.71,2026-03-17 14:39:51,Hyderabad,Zomato,Mobile,0,fraud
+T00607,3548.38,2026-03-28 19:51:51,Delhi,Swiggy,Tablet,0,legit
+T00608,18633.4,2026-04-06 01:42:51,Bangalore,Amazon,Mobile,1,fraud
+T00609,42510.78,2026-03-18 01:30:51,Delhi,Zomato,Laptop,1,legit
+T00610,29138.17,2026-03-19 17:03:51,Pune,Zomato,Laptop,1,legit
+T00611,12096.87,2026-04-07 22:22:51,Chennai,Amazon,Mobile,0,legit
+T00612,12034.45,2026-03-13 09:20:51,Mumbai,Flipkart,Laptop,0,legit
+T00613,26629.65,2026-03-28 08:44:51,Hyderabad,Zomato,Mobile,1,fraud
+T00614,47046.87,2026-03-20 13:22:51,Mumbai,Croma,Laptop,0,fraud
+T00615,38593.2,2026-04-02 14:12:51,Bangalore,Flipkart,Tablet,1,fraud
+T00616,35577.67,2026-03-10 15:33:51,Bangalore,Zomato,Laptop,1,legit
+T00617,11392.02,2026-04-02 03:52:51,Pune,Flipkart,Laptop,1,legit
+T00618,36980.74,2026-03-17 07:26:51,Hyderabad,Reliance Mart,Mobile,0,legit
+T00619,47390.76,2026-03-31 06:45:51,Pune,Uber,Tablet,0,fraud
+T00620,35747.93,2026-03-17 12:36:51,Hyderabad,Reliance Mart,Tablet,0,legit
+T00621,29840.39,2026-03-11 04:28:51,Pune,Reliance Mart,Mobile,1,fraud
+T00622,38324.45,2026-03-22 18:05:51,Pune,Croma,Tablet,0,legit
+T00623,49975.26,2026-04-07 11:12:51,Pune,Zomato,Tablet,0,fraud
+T00624,7514.19,2026-04-07 08:52:51,Pune,Zomato,Laptop,1,legit
+T00625,2622.3,2026-03-19 22:07:51,Mumbai,Flipkart,Mobile,1,legit
+T00626,16724.68,2026-03-14 23:21:51,Hyderabad,Reliance Mart,Laptop,1,fraud
+T00627,29462.63,2026-03-12 21:40:51,Bangalore,Croma,Tablet,0,legit
+T00628,9872.62,2026-03-15 14:57:51,Mumbai,Amazon,Laptop,0,fraud
+T00629,40283.64,2026-04-07 11:07:51,Bangalore,Uber,Laptop,0,fraud
+T00630,2649.38,2026-03-19 23:47:51,Delhi,Flipkart,Tablet,1,fraud
+T00631,18452.64,2026-03-27 19:46:51,Bangalore,Reliance Mart,Tablet,1,fraud
+T00632,18316.06,2026-03-17 22:45:51,Hyderabad,Flipkart,Mobile,1,legit
+T00633,5229.1,2026-03-16 02:35:51,Pune,Reliance Mart,Mobile,0,fraud
+T00634,41367.49,2026-03-10 08:23:51,Chennai,Reliance Mart,Laptop,1,fraud
+T00635,45535.12,2026-03-24 00:49:51,Bangalore,Amazon,Mobile,0,legit
+T00636,42722.18,2026-03-25 08:25:51,Bangalore,Swiggy,Tablet,1,legit
+T00637,29847.36,2026-03-20 05:03:51,Pune,Reliance Mart,Tablet,1,fraud
+T00638,46108.42,2026-03-28 17:07:51,Delhi,Flipkart,Mobile,0,legit
+T00639,6366.98,2026-04-08 22:36:51,Bangalore,Amazon,Laptop,1,fraud
+T00640,45162.79,2026-03-15 14:55:51,Pune,Croma,Mobile,1,fraud
+T00641,20522.96,2026-03-26 02:43:51,Chennai,Croma,Tablet,1,legit
+T00642,19580.73,2026-03-16 01:04:51,Chennai,Croma,Tablet,0,fraud
+T00643,12405.87,2026-04-04 15:29:51,Pune,Zomato,Tablet,0,legit
+T00644,24874.07,2026-04-04 03:11:51,Pune,Flipkart,Mobile,0,fraud
+T00645,19005.99,2026-03-19 15:31:51,Hyderabad,Uber,Laptop,0,fraud
+T00646,45824.22,2026-03-15 17:15:51,Delhi,Amazon,Mobile,1,legit
+T00647,3785.72,2026-03-11 06:38:51,Pune,Croma,Tablet,0,fraud
+T00648,48541.16,2026-03-16 09:40:51,Hyderabad,Reliance Mart,Mobile,0,fraud
+T00649,40826.63,2026-03-31 23:13:51,Delhi,Amazon,Mobile,1,legit
+T00650,42528.61,2026-04-08 21:44:51,Mumbai,Zomato,Tablet,1,legit
+T00651,41692.23,2026-04-08 06:35:51,Mumbai,Swiggy,Tablet,0,fraud
+T00652,1379.25,2026-04-04 20:27:51,Chennai,Swiggy,Laptop,0,legit
+T00653,38186.3,2026-03-25 18:36:51,Pune,Zomato,Tablet,1,fraud
+T00654,19962.41,2026-03-10 11:34:51,Delhi,Zomato,Laptop,1,fraud
+T00655,7146.53,2026-04-02 05:10:51,Bangalore,Flipkart,Tablet,0,legit
+T00656,46925.03,2026-03-27 14:02:51,Pune,Swiggy,Laptop,1,legit
+T00657,18797.79,2026-03-23 08:33:51,Hyderabad,Amazon,Laptop,1,fraud
+T00658,34484.41,2026-03-13 00:28:51,Delhi,Reliance Mart,Mobile,0,legit
+T00659,14382.59,2026-03-30 18:00:51,Bangalore,Uber,Laptop,1,fraud
+T00660,48134.43,2026-03-17 06:08:51,Hyderabad,Croma,Mobile,0,fraud
+T00661,10402.15,2026-03-19 20:22:51,Chennai,Flipkart,Laptop,0,legit
+T00662,23236.94,2026-03-27 16:55:51,Bangalore,Zomato,Mobile,0,legit
+T00663,4864.66,2026-03-28 13:02:51,Bangalore,Reliance Mart,Tablet,0,legit
+T00664,18596.85,2026-03-31 21:42:51,Mumbai,Swiggy,Laptop,1,fraud
+T00665,36230.55,2026-04-04 15:09:51,Bangalore,Croma,Mobile,0,legit
+T00666,6482.76,2026-03-26 10:05:51,Chennai,Flipkart,Mobile,1,fraud
+T00667,1468.08,2026-03-26 19:16:51,Hyderabad,Flipkart,Mobile,0,fraud
+T00668,22127.2,2026-03-21 02:53:51,Hyderabad,Reliance Mart,Laptop,1,fraud
+T00669,33364.11,2026-03-10 11:21:51,Pune,Zomato,Tablet,1,legit
+T00670,10602.18,2026-03-15 23:34:51,Bangalore,Croma,Mobile,0,legit
+T00671,13697.46,2026-03-11 16:53:51,Mumbai,Flipkart,Mobile,0,legit
+T00672,376.08,2026-03-20 06:16:51,Pune,Croma,Laptop,1,legit
+T00673,16900.61,2026-03-16 09:57:51,Pune,Flipkart,Mobile,1,legit
+T00674,26625.89,2026-03-31 22:21:51,Mumbai,Flipkart,Laptop,1,legit
+T00675,44108.05,2026-03-23 13:25:51,Mumbai,Swiggy,Tablet,0,fraud
+T00676,13787.66,2026-03-26 06:35:51,Pune,Flipkart,Laptop,0,legit
+T00677,36455.03,2026-04-04 09:03:51,Pune,Swiggy,Mobile,1,fraud
+T00678,39037.35,2026-04-04 23:41:51,Pune,Amazon,Laptop,1,fraud
+T00679,16093.53,2026-03-30 07:32:51,Delhi,Flipkart,Laptop,1,fraud
+T00680,29341.49,2026-04-01 18:35:51,Bangalore,Uber,Tablet,1,fraud
+T00681,24117.5,2026-03-12 02:05:51,Mumbai,Croma,Tablet,1,fraud
+T00682,16883.28,2026-03-16 05:06:51,Bangalore,Amazon,Tablet,0,fraud
+T00683,26881.34,2026-04-02 20:58:51,Chennai,Uber,Laptop,1,legit
+T00684,12889.58,2026-03-15 01:06:51,Pune,Zomato,Laptop,1,fraud
+T00685,13405.92,2026-03-27 12:12:51,Hyderabad,Reliance Mart,Mobile,1,fraud
+T00686,43018.74,2026-04-06 04:47:51,Chennai,Swiggy,Mobile,1,legit
+T00687,47186.34,2026-03-23 08:42:51,Delhi,Flipkart,Tablet,0,fraud
+T00688,33537.33,2026-04-05 08:06:51,Pune,Flipkart,Mobile,1,fraud
+T00689,18976.26,2026-03-26 05:11:51,Bangalore,Croma,Laptop,1,fraud
+T00690,45214.56,2026-03-28 01:18:51,Pune,Flipkart,Mobile,1,fraud
+T00691,43338.25,2026-03-16 15:19:51,Chennai,Flipkart,Mobile,0,fraud
+T00692,38169.51,2026-03-21 08:44:51,Chennai,Uber,Mobile,1,fraud
+T00693,15258.35,2026-03-21 22:48:51,Delhi,Swiggy,Laptop,1,fraud
+T00694,42591.41,2026-03-11 11:06:51,Delhi,Reliance Mart,Laptop,1,legit
+T00695,41530.74,2026-03-14 02:17:51,Pune,Swiggy,Laptop,1,legit
+T00696,30891.38,2026-03-30 11:42:51,Hyderabad,Zomato,Laptop,1,fraud
+T00697,27981.75,2026-04-08 08:15:51,Mumbai,Reliance Mart,Tablet,1,legit
+T00698,39252.18,2026-03-29 10:45:51,Hyderabad,Zomato,Mobile,0,legit
+T00699,7773.67,2026-03-12 03:38:51,Bangalore,Amazon,Laptop,0,legit
+T00700,1125.21,2026-03-15 19:04:51,Hyderabad,Swiggy,Mobile,0,fraud
+T00701,34528.99,2026-03-11 01:36:51,Hyderabad,Amazon,Mobile,1,fraud
+T00702,23103.61,2026-03-14 18:59:51,Pune,Swiggy,Tablet,0,fraud
+T00703,26881.9,2026-04-07 23:34:51,Chennai,Flipkart,Tablet,1,legit
+T00704,7173.52,2026-03-29 03:54:51,Bangalore,Zomato,Mobile,0,fraud
+T00705,6182.86,2026-04-01 19:17:51,Mumbai,Reliance Mart,Mobile,0,legit
+T00706,17775.46,2026-03-12 11:05:51,Chennai,Reliance Mart,Mobile,0,fraud
+T00707,20410.3,2026-03-17 18:36:51,Delhi,Croma,Tablet,1,fraud
+T00708,18908.57,2026-04-01 19:18:51,Mumbai,Swiggy,Mobile,1,fraud
+T00709,5348.6,2026-03-13 06:02:51,Hyderabad,Amazon,Laptop,0,legit
+T00710,25793.57,2026-03-29 07:53:51,Pune,Zomato,Mobile,0,legit
+T00711,3024.01,2026-03-24 22:57:51,Mumbai,Uber,Tablet,0,legit
+T00712,35577.04,2026-04-05 10:14:51,Delhi,Swiggy,Tablet,0,legit
+T00713,17884.73,2026-03-11 23:18:51,Chennai,Zomato,Laptop,0,fraud
+T00714,18083.8,2026-04-05 18:17:51,Delhi,Croma,Mobile,1,fraud
+T00715,596.06,2026-04-08 06:18:51,Pune,Croma,Laptop,0,legit
+T00716,14978.97,2026-03-12 06:38:51,Mumbai,Reliance Mart,Laptop,1,fraud
+T00717,6695.39,2026-04-06 01:36:51,Chennai,Amazon,Laptop,1,legit
+T00718,3061.78,2026-03-12 21:04:51,Bangalore,Amazon,Laptop,0,fraud
+T00719,11577.25,2026-04-03 23:29:51,Chennai,Croma,Mobile,0,fraud
+T00720,49054.45,2026-04-07 22:14:51,Delhi,Uber,Laptop,1,legit
+T00721,20832.63,2026-04-06 16:58:51,Chennai,Croma,Tablet,0,fraud
+T00722,36542.11,2026-03-26 14:16:51,Bangalore,Zomato,Laptop,0,legit
+T00723,24066.91,2026-04-05 20:20:51,Mumbai,Reliance Mart,Mobile,1,fraud
+T00724,10744.32,2026-04-06 18:34:51,Pune,Flipkart,Laptop,0,legit
+T00725,27805.34,2026-04-08 10:29:51,Mumbai,Amazon,Mobile,0,legit
+T00726,1263.03,2026-03-30 04:26:51,Hyderabad,Amazon,Laptop,0,fraud
+T00727,37986.55,2026-03-19 15:27:51,Hyderabad,Swiggy,Mobile,0,fraud
+T00728,41766.98,2026-04-03 10:28:51,Bangalore,Flipkart,Laptop,0,fraud
+T00729,3061.95,2026-03-29 12:27:51,Bangalore,Uber,Tablet,0,legit
+T00730,38217.08,2026-03-27 04:52:51,Hyderabad,Croma,Tablet,0,legit
+T00731,5908.57,2026-03-23 18:15:51,Mumbai,Zomato,Laptop,1,fraud
+T00732,35558.26,2026-03-31 01:20:51,Mumbai,Uber,Mobile,0,legit
+T00733,31795.85,2026-03-28 10:45:51,Chennai,Flipkart,Laptop,0,legit
+T00734,5527.26,2026-04-01 18:08:51,Delhi,Croma,Tablet,1,legit
+T00735,867.3,2026-03-10 14:31:51,Hyderabad,Flipkart,Tablet,0,fraud
+T00736,480.74,2026-03-17 18:57:51,Chennai,Uber,Mobile,0,legit
+T00737,11110.02,2026-04-03 18:02:51,Hyderabad,Reliance Mart,Mobile,0,fraud
+T00738,41411.58,2026-03-28 09:30:51,Bangalore,Zomato,Tablet,1,legit
+T00739,3030.17,2026-03-11 07:47:51,Bangalore,Uber,Mobile,1,legit
+T00740,39966.31,2026-03-31 00:45:51,Bangalore,Croma,Mobile,1,fraud
+T00741,29244.95,2026-03-17 14:23:51,Delhi,Croma,Mobile,1,legit
+T00742,31224.22,2026-04-01 00:01:51,Bangalore,Zomato,Laptop,0,legit
+T00743,27366.64,2026-03-18 16:15:51,Pune,Flipkart,Laptop,1,legit
+T00744,7836.63,2026-04-06 12:21:51,Pune,Zomato,Mobile,1,legit
+T00745,25358.37,2026-03-27 09:16:51,Mumbai,Uber,Tablet,0,legit
+T00746,31124.62,2026-03-11 22:45:51,Bangalore,Croma,Tablet,0,fraud
+T00747,22046.81,2026-03-29 03:13:51,Bangalore,Uber,Mobile,0,fraud
+T00748,4694.05,2026-03-18 00:18:51,Bangalore,Croma,Mobile,1,fraud
+T00749,44675.29,2026-03-23 17:21:51,Delhi,Uber,Laptop,0,legit
+T00750,999.73,2026-03-11 06:24:51,Bangalore,Reliance Mart,Laptop,0,legit
+T00751,49633.53,2026-03-13 18:48:51,Chennai,Zomato,Laptop,1,legit
+T00752,42019.8,2026-04-01 22:46:51,Hyderabad,Uber,Laptop,0,fraud
+T00753,19799.27,2026-04-02 06:42:51,Chennai,Zomato,Laptop,0,fraud
+T00754,14802.49,2026-03-26 12:19:51,Delhi,Croma,Tablet,0,fraud
+T00755,41137.08,2026-04-01 08:33:51,Chennai,Amazon,Laptop,0,legit
+T00756,16192.7,2026-03-13 10:10:51,Pune,Zomato,Mobile,0,fraud
+T00757,45237.95,2026-04-03 01:59:51,Pune,Uber,Tablet,0,legit
+T00758,7434.18,2026-04-02 00:51:51,Hyderabad,Swiggy,Tablet,0,fraud
+T00759,1522.31,2026-04-03 07:36:51,Pune,Croma,Tablet,1,legit
+T00760,41927.77,2026-03-17 03:32:51,Delhi,Uber,Tablet,1,legit
+T00761,43259.19,2026-03-25 05:36:51,Delhi,Amazon,Laptop,0,legit
+T00762,46887.34,2026-03-29 03:42:51,Mumbai,Croma,Mobile,0,legit
+T00763,29772.56,2026-03-14 15:34:51,Pune,Swiggy,Mobile,0,fraud
+T00764,37925.63,2026-03-16 21:50:51,Delhi,Croma,Mobile,1,fraud
+T00765,48451.34,2026-03-16 13:39:51,Chennai,Uber,Tablet,1,legit
+T00766,30253.55,2026-03-10 10:23:51,Mumbai,Reliance Mart,Tablet,1,legit
+T00767,44537.22,2026-03-30 03:37:51,Mumbai,Zomato,Mobile,0,legit
+T00768,49435.26,2026-03-26 01:55:51,Bangalore,Zomato,Mobile,0,legit
+T00769,19573.41,2026-03-14 11:39:51,Mumbai,Reliance Mart,Mobile,1,fraud
+T00770,7517.4,2026-03-24 10:11:51,Delhi,Zomato,Tablet,0,legit
+T00771,10542.39,2026-03-19 16:15:51,Delhi,Zomato,Mobile,1,legit
+T00772,34682.78,2026-03-15 13:53:51,Delhi,Swiggy,Laptop,1,fraud
+T00773,22431.28,2026-03-12 03:41:51,Hyderabad,Swiggy,Tablet,0,legit
+T00774,19805.59,2026-04-01 00:45:51,Mumbai,Uber,Mobile,0,legit
+T00775,28315.61,2026-04-01 14:29:51,Mumbai,Flipkart,Tablet,0,legit
+T00776,9319.72,2026-03-25 03:51:51,Mumbai,Swiggy,Tablet,0,fraud
+T00777,28497.59,2026-04-03 23:14:51,Chennai,Reliance Mart,Tablet,1,legit
+T00778,10681.26,2026-04-07 16:43:51,Bangalore,Flipkart,Tablet,1,legit
+T00779,38928.76,2026-03-15 09:32:51,Bangalore,Reliance Mart,Tablet,1,legit
+T00780,18818.7,2026-03-10 18:59:51,Chennai,Flipkart,Mobile,1,legit
+T00781,32367.72,2026-03-15 13:32:51,Pune,Uber,Tablet,0,fraud
+T00782,38893.63,2026-03-28 03:02:51,Pune,Amazon,Laptop,1,legit
+T00783,10805.12,2026-03-17 19:30:51,Pune,Swiggy,Laptop,0,fraud
+T00784,8168.33,2026-03-17 23:13:51,Bangalore,Amazon,Laptop,0,legit
+T00785,3836.3,2026-04-09 00:26:51,Chennai,Uber,Laptop,0,fraud
+T00786,7866.34,2026-03-30 21:01:51,Chennai,Croma,Tablet,0,fraud
+T00787,5263.99,2026-03-21 20:51:51,Chennai,Zomato,Tablet,0,legit
+T00788,26348.26,2026-03-15 22:38:51,Delhi,Zomato,Mobile,0,fraud
+T00789,42299.1,2026-04-03 16:08:51,Mumbai,Zomato,Mobile,0,legit
+T00790,38350.27,2026-04-02 04:49:51,Mumbai,Uber,Tablet,0,legit
+T00791,15118.61,2026-03-13 18:09:51,Hyderabad,Swiggy,Mobile,1,legit
+T00792,27439.46,2026-03-31 02:08:51,Hyderabad,Reliance Mart,Laptop,0,fraud
+T00793,3668.62,2026-04-02 14:14:51,Pune,Amazon,Mobile,1,legit
+T00794,40861.19,2026-04-04 02:01:51,Mumbai,Uber,Laptop,1,fraud
+T00795,41178.93,2026-03-19 03:46:51,Delhi,Swiggy,Tablet,0,fraud
+T00796,49546.11,2026-03-30 10:40:51,Delhi,Reliance Mart,Laptop,1,fraud
+T00797,44753.97,2026-03-17 13:29:51,Delhi,Reliance Mart,Laptop,0,legit
+T00798,46974.27,2026-03-10 22:49:51,Bangalore,Croma,Tablet,1,legit
+T00799,2767.13,2026-03-11 16:21:51,Delhi,Amazon,Mobile,1,fraud
+T00800,7233.98,2026-04-05 09:24:51,Hyderabad,Reliance Mart,Mobile,1,legit
+T00801,30255.39,2026-04-02 08:23:51,Pune,Flipkart,Mobile,0,fraud
+T00802,46197.37,2026-04-02 18:20:51,Hyderabad,Zomato,Mobile,1,legit
+T00803,23005.78,2026-04-03 17:47:51,Mumbai,Reliance Mart,Tablet,1,legit
+T00804,49033.38,2026-03-30 04:27:51,Hyderabad,Flipkart,Tablet,1,fraud
+T00805,19802.75,2026-04-06 14:26:51,Mumbai,Flipkart,Tablet,1,fraud
+T00806,40464.5,2026-04-05 05:20:51,Pune,Zomato,Tablet,0,fraud
+T00807,2712.18,2026-04-08 10:47:51,Pune,Swiggy,Laptop,0,fraud
+T00808,3592.9,2026-03-18 16:33:51,Delhi,Zomato,Mobile,0,fraud
+T00809,48011.83,2026-03-24 04:14:51,Delhi,Reliance Mart,Tablet,1,fraud
+T00810,27904.96,2026-04-08 19:37:51,Mumbai,Zomato,Tablet,0,fraud
+T00811,33997.09,2026-03-22 00:33:51,Delhi,Amazon,Mobile,0,fraud
+T00812,41172.22,2026-03-19 20:54:51,Bangalore,Croma,Mobile,1,legit
+T00813,33948.28,2026-03-26 12:40:51,Hyderabad,Croma,Mobile,0,legit
+T00814,9275.75,2026-03-14 01:30:51,Hyderabad,Swiggy,Laptop,0,legit
+T00815,43046.39,2026-03-29 17:58:51,Delhi,Reliance Mart,Mobile,1,fraud
+T00816,48164.2,2026-03-30 04:29:51,Delhi,Swiggy,Mobile,1,legit
+T00817,17848.86,2026-03-14 11:41:51,Bangalore,Zomato,Laptop,0,legit
+T00818,866.12,2026-03-20 09:40:51,Pune,Flipkart,Tablet,0,legit
+T00819,36746.85,2026-03-27 13:55:51,Delhi,Reliance Mart,Tablet,1,legit
+T00820,43111.11,2026-03-12 06:33:51,Pune,Uber,Mobile,0,fraud
+T00821,21169.72,2026-04-04 12:37:51,Bangalore,Amazon,Tablet,0,legit
+T00822,18769.42,2026-04-07 05:13:51,Hyderabad,Uber,Mobile,1,legit
+T00823,10365.59,2026-03-22 03:35:51,Pune,Croma,Mobile,0,legit
+T00824,2360.29,2026-03-16 13:25:51,Bangalore,Flipkart,Tablet,1,fraud
+T00825,42015.77,2026-03-19 06:04:51,Pune,Reliance Mart,Tablet,1,legit
+T00826,8834.29,2026-03-27 04:44:51,Mumbai,Reliance Mart,Tablet,1,legit
+T00827,8327.79,2026-03-30 06:21:51,Delhi,Flipkart,Mobile,0,fraud
+T00828,1111.13,2026-03-26 08:45:51,Pune,Zomato,Mobile,0,fraud
+T00829,40859.46,2026-03-12 22:13:51,Delhi,Amazon,Laptop,1,legit
+T00830,4249.3,2026-03-21 00:59:51,Pune,Croma,Mobile,0,legit
+T00831,44524.58,2026-03-30 22:04:51,Mumbai,Reliance Mart,Mobile,0,fraud
+T00832,32231.58,2026-03-17 07:20:51,Pune,Croma,Tablet,1,fraud
+T00833,28732.07,2026-03-12 02:18:51,Bangalore,Zomato,Mobile,1,legit
+T00834,20613.51,2026-03-10 18:59:51,Delhi,Zomato,Tablet,1,legit
+T00835,18972.71,2026-03-18 08:26:51,Mumbai,Swiggy,Mobile,1,legit
+T00836,10218.88,2026-03-27 15:42:51,Hyderabad,Reliance Mart,Tablet,0,fraud
+T00837,14459.49,2026-03-16 02:49:51,Mumbai,Croma,Mobile,0,legit
+T00838,25002.02,2026-03-15 03:14:51,Mumbai,Croma,Mobile,1,fraud
+T00839,1126.97,2026-03-23 15:05:51,Delhi,Reliance Mart,Tablet,1,fraud
+T00840,29863.7,2026-03-30 16:40:51,Pune,Swiggy,Laptop,0,fraud
+T00841,17328.39,2026-04-08 01:41:51,Chennai,Zomato,Laptop,1,legit
+T00842,4175.03,2026-03-20 13:35:51,Mumbai,Swiggy,Tablet,1,fraud
+T00843,10236.86,2026-03-11 15:51:51,Pune,Croma,Tablet,0,legit
+T00844,31903.26,2026-03-24 14:10:51,Hyderabad,Flipkart,Mobile,0,fraud
+T00845,24958.41,2026-03-30 04:36:51,Pune,Flipkart,Laptop,0,legit
+T00846,35507.52,2026-03-28 04:58:51,Mumbai,Swiggy,Laptop,0,legit
+T00847,7188.9,2026-03-26 05:05:51,Pune,Uber,Laptop,0,legit
+T00848,16478.69,2026-03-13 10:27:51,Mumbai,Zomato,Tablet,0,fraud
+T00849,1992.67,2026-03-23 16:54:51,Bangalore,Amazon,Laptop,0,fraud
+T00850,31312.72,2026-03-11 17:28:51,Mumbai,Uber,Laptop,0,fraud
+T00851,38268.71,2026-03-11 00:37:51,Pune,Amazon,Mobile,1,legit
+T00852,33144.89,2026-04-02 05:24:51,Delhi,Reliance Mart,Laptop,1,fraud
+T00853,44735.93,2026-03-29 23:34:51,Pune,Amazon,Mobile,1,legit
+T00854,20029.44,2026-03-25 18:15:51,Bangalore,Zomato,Tablet,1,legit
+T00855,16383.43,2026-04-01 15:08:51,Mumbai,Croma,Tablet,1,fraud
+T00856,10004.18,2026-03-14 11:17:51,Mumbai,Swiggy,Tablet,1,fraud
+T00857,29664.8,2026-03-13 09:40:51,Hyderabad,Reliance Mart,Mobile,0,fraud
+T00858,38378.85,2026-03-29 05:54:51,Pune,Reliance Mart,Mobile,1,fraud
+T00859,33407.41,2026-03-26 23:48:51,Pune,Swiggy,Laptop,1,fraud
+T00860,44346.86,2026-03-26 23:25:51,Chennai,Croma,Mobile,0,fraud
+T00861,5825.15,2026-04-05 14:27:51,Chennai,Croma,Laptop,1,legit
+T00862,38222.36,2026-04-02 22:12:51,Bangalore,Flipkart,Laptop,1,fraud
+T00863,10635.11,2026-04-04 20:56:51,Delhi,Croma,Tablet,0,fraud
+T00864,7057.61,2026-03-14 16:20:51,Hyderabad,Flipkart,Mobile,1,legit
+T00865,9146.95,2026-03-11 10:08:51,Delhi,Zomato,Laptop,0,fraud
+T00866,5247.22,2026-04-02 21:30:51,Bangalore,Reliance Mart,Tablet,1,fraud
+T00867,13573.55,2026-04-02 12:10:51,Bangalore,Croma,Mobile,1,fraud
+T00868,29048.17,2026-03-12 14:18:51,Pune,Swiggy,Tablet,1,legit
+T00869,42123.61,2026-04-08 13:43:51,Hyderabad,Swiggy,Tablet,0,legit
+T00870,47516.37,2026-03-14 02:32:51,Chennai,Amazon,Tablet,0,legit
+T00871,41270.92,2026-03-31 05:53:51,Chennai,Reliance Mart,Mobile,0,legit
+T00872,25481.03,2026-03-30 08:50:51,Hyderabad,Zomato,Mobile,0,fraud
+T00873,7882.42,2026-03-23 18:44:51,Chennai,Zomato,Laptop,1,fraud
+T00874,36924.52,2026-03-31 00:01:51,Hyderabad,Flipkart,Laptop,0,fraud
+T00875,39899.88,2026-04-02 16:28:51,Bangalore,Amazon,Mobile,0,legit
+T00876,958.84,2026-04-07 20:04:51,Pune,Flipkart,Tablet,1,legit
+T00877,12314.05,2026-03-30 08:25:51,Bangalore,Croma,Tablet,0,legit
+T00878,20924.85,2026-03-21 18:41:51,Chennai,Reliance Mart,Mobile,0,fraud
+T00879,31306.81,2026-03-11 16:41:51,Pune,Reliance Mart,Tablet,1,legit
+T00880,47209.5,2026-04-02 02:17:51,Pune,Swiggy,Mobile,1,legit
+T00881,42002.18,2026-03-13 03:08:51,Hyderabad,Croma,Tablet,0,legit
+T00882,39728.96,2026-03-31 17:09:51,Delhi,Flipkart,Tablet,1,fraud
+T00883,28508.47,2026-04-01 23:03:51,Mumbai,Croma,Mobile,0,fraud
+T00884,29319.39,2026-04-06 00:06:51,Hyderabad,Croma,Laptop,1,legit
+T00885,32577.91,2026-04-09 03:55:51,Delhi,Croma,Tablet,0,legit
+T00886,48330.17,2026-03-15 15:47:51,Delhi,Zomato,Laptop,1,fraud
+T00887,23015.29,2026-03-24 20:53:51,Delhi,Zomato,Tablet,0,legit
+T00888,18694.44,2026-03-29 16:56:51,Hyderabad,Swiggy,Laptop,0,legit
+T00889,49866.26,2026-04-08 08:57:51,Hyderabad,Croma,Laptop,1,fraud
+T00890,43007.83,2026-03-30 00:00:51,Delhi,Flipkart,Mobile,0,fraud
+T00891,3573.01,2026-03-13 04:55:51,Chennai,Swiggy,Mobile,0,legit
+T00892,15269.54,2026-04-07 14:58:51,Bangalore,Zomato,Mobile,0,legit
+T00893,11319.86,2026-03-25 06:58:51,Delhi,Swiggy,Mobile,1,fraud
+T00894,39170.34,2026-03-27 20:47:51,Mumbai,Uber,Tablet,1,fraud
+T00895,38124.73,2026-03-24 18:27:51,Chennai,Flipkart,Tablet,1,fraud
+T00896,42153.79,2026-04-07 13:54:51,Pune,Reliance Mart,Laptop,1,fraud
+T00897,22972.56,2026-03-22 03:53:51,Pune,Flipkart,Laptop,0,legit
+T00898,7531.59,2026-03-26 21:28:51,Mumbai,Amazon,Tablet,0,legit
+T00899,17783.62,2026-03-22 16:49:51,Delhi,Amazon,Tablet,1,legit
+T00900,18165.62,2026-03-31 12:10:51,Mumbai,Uber,Mobile,1,legit
+T00901,1628.53,2026-03-20 04:22:51,Bangalore,Zomato,Tablet,0,legit
+T00902,31463.6,2026-04-02 14:57:51,Mumbai,Flipkart,Laptop,0,legit
+T00903,6882.45,2026-03-31 18:50:51,Hyderabad,Flipkart,Laptop,1,fraud
+T00904,7012.69,2026-03-21 22:38:51,Delhi,Zomato,Mobile,0,legit
+T00905,16430.19,2026-04-06 06:57:51,Mumbai,Flipkart,Tablet,0,fraud
+T00906,31079.46,2026-03-26 12:37:51,Pune,Reliance Mart,Tablet,1,fraud
+T00907,30818.77,2026-04-02 00:26:51,Mumbai,Swiggy,Laptop,0,fraud
+T00908,21536.32,2026-03-22 17:42:51,Bangalore,Zomato,Mobile,1,fraud
+T00909,28904.35,2026-04-05 06:40:51,Pune,Uber,Tablet,0,fraud
+T00910,16035.04,2026-04-01 05:15:51,Chennai,Uber,Laptop,1,legit
+T00911,12948.57,2026-03-28 19:41:51,Bangalore,Swiggy,Tablet,0,legit
+T00912,17608.34,2026-03-18 13:36:51,Mumbai,Uber,Tablet,1,legit
+T00913,14599.42,2026-04-05 02:14:51,Bangalore,Reliance Mart,Mobile,0,fraud
+T00914,14321.55,2026-04-05 15:25:51,Bangalore,Zomato,Laptop,1,fraud
+T00915,12066.49,2026-03-15 04:13:51,Bangalore,Uber,Laptop,1,fraud
+T00916,42394.43,2026-03-20 11:53:51,Chennai,Zomato,Mobile,1,legit
+T00917,43162.31,2026-03-26 13:56:51,Pune,Zomato,Laptop,0,fraud
+T00918,23867.63,2026-04-09 00:52:51,Hyderabad,Uber,Laptop,1,legit
+T00919,6928.97,2026-04-08 17:26:51,Hyderabad,Swiggy,Tablet,1,legit
+T00920,37938.86,2026-03-19 16:27:51,Hyderabad,Uber,Tablet,0,legit
+T00921,29965.92,2026-03-13 08:04:51,Pune,Swiggy,Laptop,0,fraud
+T00922,35853.87,2026-03-17 20:47:51,Mumbai,Swiggy,Mobile,0,fraud
+T00923,15584.28,2026-03-16 20:24:51,Chennai,Flipkart,Mobile,0,legit
+T00924,49155.71,2026-03-30 01:25:51,Chennai,Flipkart,Tablet,1,legit
+T00925,34869.74,2026-03-23 19:51:51,Pune,Flipkart,Mobile,1,legit
+T00926,34749.5,2026-04-08 19:39:51,Bangalore,Zomato,Mobile,1,fraud
+T00927,1724.17,2026-03-17 19:01:51,Delhi,Croma,Tablet,0,legit
+T00928,28762.09,2026-04-03 11:15:51,Hyderabad,Swiggy,Laptop,1,fraud
+T00929,8351.9,2026-04-03 12:53:51,Delhi,Uber,Laptop,0,legit
+T00930,30296.68,2026-03-21 10:51:51,Hyderabad,Uber,Mobile,0,legit
+T00931,35112.05,2026-03-30 00:06:51,Chennai,Amazon,Laptop,0,fraud
+T00932,71.39,2026-04-01 11:21:51,Mumbai,Swiggy,Laptop,0,legit
+T00933,1413.17,2026-03-20 03:10:51,Delhi,Croma,Mobile,1,legit
+T00934,44923.47,2026-03-16 06:49:51,Mumbai,Reliance Mart,Tablet,0,fraud
+T00935,22899.57,2026-03-31 17:56:51,Delhi,Reliance Mart,Mobile,0,legit
+T00936,23193.95,2026-03-12 19:28:51,Mumbai,Swiggy,Mobile,1,legit
+T00937,12257.99,2026-03-20 22:03:51,Delhi,Swiggy,Mobile,0,legit
+T00938,43067.36,2026-03-21 00:48:51,Bangalore,Amazon,Laptop,0,fraud
+T00939,38488.59,2026-03-22 05:54:51,Bangalore,Uber,Laptop,0,legit
+T00940,31083.46,2026-03-31 15:11:51,Hyderabad,Croma,Laptop,0,legit
+T00941,13128.12,2026-03-30 15:19:51,Pune,Reliance Mart,Laptop,0,fraud
+T00942,16891.61,2026-03-10 13:36:51,Pune,Uber,Laptop,0,fraud
+T00943,8227.06,2026-04-05 10:14:51,Bangalore,Amazon,Mobile,1,legit
+T00944,16030.79,2026-03-31 13:43:51,Chennai,Amazon,Laptop,1,legit
+T00945,29674.68,2026-04-02 11:34:51,Mumbai,Flipkart,Mobile,0,legit
+T00946,3222.24,2026-03-17 03:48:51,Bangalore,Swiggy,Mobile,0,fraud
+T00947,48855.85,2026-03-16 11:16:51,Delhi,Flipkart,Laptop,0,fraud
+T00948,33675.08,2026-03-24 12:49:51,Delhi,Swiggy,Laptop,0,legit
+T00949,16344.1,2026-04-09 03:13:51,Hyderabad,Croma,Tablet,0,legit
+T00950,17676.26,2026-04-08 22:21:51,Hyderabad,Zomato,Laptop,1,fraud
+T00951,18903.47,2026-03-25 16:37:51,Bangalore,Flipkart,Laptop,0,fraud
+T00952,46541.19,2026-04-01 02:29:51,Hyderabad,Amazon,Mobile,0,fraud
+T00953,21799.83,2026-03-12 18:19:51,Delhi,Croma,Laptop,1,legit
+T00954,996.81,2026-03-27 16:06:51,Delhi,Reliance Mart,Laptop,1,legit
+T00955,38934.43,2026-03-18 01:30:51,Hyderabad,Flipkart,Tablet,0,legit
+T00956,15228.68,2026-03-13 21:02:51,Delhi,Croma,Mobile,1,fraud
+T00957,24740.97,2026-04-05 07:17:51,Hyderabad,Amazon,Laptop,1,fraud
+T00958,45806.23,2026-03-27 16:03:51,Delhi,Zomato,Laptop,1,legit
+T00959,20469.28,2026-03-30 22:59:51,Pune,Croma,Tablet,1,fraud
+T00960,37183.95,2026-04-07 14:46:51,Bangalore,Reliance Mart,Mobile,1,fraud
+T00961,25985.59,2026-03-10 22:41:51,Delhi,Swiggy,Mobile,1,fraud
+T00962,11702.3,2026-04-01 08:24:51,Delhi,Reliance Mart,Laptop,1,legit
+T00963,11460.88,2026-04-02 21:38:51,Mumbai,Croma,Tablet,0,fraud
+T00964,41213.82,2026-03-14 18:02:51,Bangalore,Uber,Laptop,0,legit
+T00965,37663.58,2026-03-19 00:43:51,Pune,Croma,Laptop,0,fraud
+T00966,28174.69,2026-03-30 22:56:51,Delhi,Reliance Mart,Tablet,1,legit
+T00967,28728.85,2026-03-21 03:44:51,Bangalore,Uber,Laptop,0,legit
+T00968,10465.45,2026-03-21 22:29:51,Hyderabad,Amazon,Laptop,1,legit
+T00969,21142.55,2026-03-16 01:35:51,Bangalore,Zomato,Mobile,0,legit
+T00970,40955.69,2026-03-17 22:36:51,Pune,Croma,Laptop,0,legit
+T00971,42600.89,2026-03-17 23:30:51,Chennai,Swiggy,Mobile,0,legit
+T00972,33750.15,2026-04-04 15:09:51,Bangalore,Swiggy,Mobile,1,fraud
+T00973,5223.8,2026-03-22 07:13:51,Hyderabad,Uber,Laptop,1,legit
+T00974,3925.24,2026-03-16 03:06:51,Mumbai,Swiggy,Tablet,1,fraud
+T00975,46491.37,2026-03-30 19:50:51,Delhi,Flipkart,Tablet,1,fraud
+T00976,25476.25,2026-03-11 05:13:51,Bangalore,Uber,Mobile,0,fraud
+T00977,34415.61,2026-03-30 03:48:51,Bangalore,Uber,Tablet,1,legit
+T00978,8208.42,2026-03-22 20:19:51,Pune,Uber,Laptop,0,legit
+T00979,35529.62,2026-03-13 10:03:51,Chennai,Uber,Mobile,1,fraud
+T00980,25873.31,2026-03-31 02:52:51,Chennai,Zomato,Tablet,1,legit
+T00981,25809.5,2026-04-06 18:52:51,Mumbai,Uber,Tablet,1,fraud
+T00982,27119.24,2026-03-17 16:35:51,Hyderabad,Swiggy,Laptop,0,fraud
+T00983,7847.33,2026-03-10 11:11:51,Bangalore,Reliance Mart,Laptop,1,legit
+T00984,23460.82,2026-03-15 04:43:51,Hyderabad,Flipkart,Laptop,0,legit
+T00985,20415.72,2026-03-13 21:40:51,Pune,Amazon,Tablet,1,fraud
+T00986,35275.21,2026-03-31 19:14:51,Pune,Zomato,Laptop,1,legit
+T00987,2886.97,2026-03-18 17:37:51,Chennai,Reliance Mart,Laptop,0,legit
+T00988,5604.74,2026-04-03 12:22:51,Mumbai,Zomato,Tablet,0,fraud
+T00989,24426.88,2026-03-23 00:38:51,Hyderabad,Reliance Mart,Tablet,1,legit
+T00990,47251.96,2026-03-29 08:47:51,Pune,Reliance Mart,Laptop,1,fraud
+T00991,36240.9,2026-03-19 06:56:51,Bangalore,Amazon,Laptop,0,fraud
+T00992,5436.54,2026-03-21 00:02:51,Pune,Zomato,Laptop,0,fraud
+T00993,6264.17,2026-03-26 07:47:51,Bangalore,Swiggy,Tablet,0,fraud
+T00994,21288.71,2026-04-02 15:09:51,Mumbai,Reliance Mart,Mobile,0,legit
+T00995,28454.18,2026-03-18 01:36:51,Pune,Reliance Mart,Laptop,0,legit
+T00996,46676.46,2026-03-31 11:26:51,Mumbai,Reliance Mart,Mobile,0,legit
+T00997,6276.41,2026-03-21 06:22:51,Chennai,Amazon,Mobile,0,legit
+T00998,7205.62,2026-03-26 13:44:51,Delhi,Swiggy,Tablet,0,fraud
+T00999,34999.33,2026-04-01 02:03:51,Mumbai,Swiggy,Laptop,0,legit
+T01000,46671.18,2026-03-21 15:06:51,Pune,Croma,Laptop,0,legit
+T01001,1030.1,2026-03-30 17:59:51,Delhi,Croma,Laptop,1,legit
+T01002,48753.21,2026-03-31 05:37:51,Chennai,Amazon,Mobile,0,fraud
+T01003,8360.77,2026-03-28 07:34:51,Chennai,Amazon,Laptop,0,fraud
+T01004,19824.57,2026-03-23 08:09:51,Delhi,Amazon,Mobile,0,fraud
+T01005,27970.86,2026-04-09 00:04:51,Pune,Uber,Mobile,0,fraud
+T01006,19436.74,2026-03-29 20:42:51,Hyderabad,Swiggy,Laptop,1,legit
+T01007,37622.81,2026-03-21 16:05:51,Hyderabad,Croma,Mobile,1,fraud
+T01008,27324.47,2026-03-25 00:40:51,Hyderabad,Croma,Laptop,1,legit
+T01009,49895.65,2026-04-04 22:31:51,Pune,Uber,Mobile,0,legit
+T01010,4828.08,2026-03-17 11:58:51,Mumbai,Reliance Mart,Tablet,0,fraud
+T01011,430.09,2026-03-30 01:08:51,Delhi,Swiggy,Mobile,1,legit
+T01012,32279.57,2026-03-23 17:54:51,Bangalore,Reliance Mart,Mobile,1,fraud
+T01013,47896.7,2026-04-01 09:11:51,Delhi,Croma,Laptop,0,legit
+T01014,47078.12,2026-04-02 15:42:51,Delhi,Croma,Mobile,1,legit
+T01015,34488.11,2026-04-02 18:22:51,Chennai,Croma,Laptop,1,legit
+T01016,43756.74,2026-03-14 08:21:51,Pune,Flipkart,Tablet,0,legit
+T01017,29529.37,2026-03-16 12:27:51,Chennai,Croma,Tablet,1,fraud
+T01018,21786.1,2026-03-14 20:26:51,Mumbai,Flipkart,Tablet,1,legit
+T01019,26192.05,2026-03-19 05:23:51,Hyderabad,Flipkart,Tablet,1,legit
+T01020,32064.76,2026-03-15 14:58:51,Chennai,Uber,Mobile,1,fraud
+T01021,3810.33,2026-03-12 08:16:51,Mumbai,Uber,Mobile,1,fraud
+T01022,15735.04,2026-04-03 17:01:51,Hyderabad,Reliance Mart,Laptop,0,legit
+T01023,20474.71,2026-04-08 15:38:51,Chennai,Flipkart,Mobile,0,legit
+T01024,11857.37,2026-03-22 13:51:51,Chennai,Swiggy,Tablet,1,fraud
+T01025,22524.83,2026-03-11 18:42:51,Hyderabad,Swiggy,Tablet,1,legit
+T01026,36453.01,2026-03-26 01:05:51,Pune,Zomato,Laptop,0,legit
+T01027,12914.95,2026-03-28 15:15:51,Chennai,Zomato,Mobile,1,fraud
+T01028,32816.18,2026-04-04 11:20:51,Hyderabad,Amazon,Laptop,0,legit
+T01029,8115.44,2026-03-22 05:30:51,Chennai,Zomato,Mobile,1,legit
+T01030,5347.9,2026-03-19 20:00:51,Chennai,Zomato,Tablet,1,fraud
+T01031,14904.67,2026-03-27 02:49:51,Mumbai,Amazon,Tablet,0,fraud
+T01032,3876.06,2026-04-04 19:14:51,Bangalore,Croma,Mobile,1,legit
+T01033,37150.21,2026-03-27 22:48:51,Pune,Zomato,Tablet,1,fraud
+T01034,15548.41,2026-04-01 16:06:51,Chennai,Uber,Laptop,1,legit
+T01035,6563.2,2026-03-16 12:31:51,Hyderabad,Reliance Mart,Laptop,0,legit
+T01036,5371.22,2026-03-13 16:31:51,Chennai,Swiggy,Laptop,1,legit
+T01037,9440.47,2026-04-06 22:28:51,Hyderabad,Zomato,Laptop,1,fraud
+T01038,43393.59,2026-04-03 21:17:51,Pune,Zomato,Tablet,0,legit
+T01039,8464.89,2026-04-07 11:32:51,Pune,Reliance Mart,Tablet,1,fraud
+T01040,11838.25,2026-03-22 11:44:51,Delhi,Amazon,Laptop,0,fraud
+T01041,24304.6,2026-03-21 08:39:51,Chennai,Croma,Mobile,0,fraud
+T01042,37274.7,2026-04-06 12:44:51,Chennai,Reliance Mart,Laptop,0,fraud
+T01043,33337.1,2026-03-13 16:02:51,Delhi,Flipkart,Tablet,0,fraud
+T01044,25471.22,2026-03-18 15:21:51,Hyderabad,Zomato,Mobile,1,fraud
+T01045,7878.55,2026-03-13 06:34:51,Delhi,Reliance Mart,Tablet,1,legit
+T01046,4632.7,2026-03-11 16:31:51,Pune,Croma,Tablet,1,fraud
+T01047,8890.07,2026-03-29 15:34:51,Delhi,Croma,Tablet,1,fraud
+T01048,26310.89,2026-04-08 10:55:51,Mumbai,Swiggy,Tablet,1,fraud
+T01049,6864.38,2026-03-23 13:44:51,Pune,Amazon,Mobile,0,legit
+T01050,14292.65,2026-04-03 23:42:51,Pune,Uber,Tablet,1,fraud
+T01051,48476.26,2026-03-28 20:40:51,Pune,Amazon,Tablet,1,fraud
+T01052,14885.8,2026-03-16 22:15:51,Chennai,Amazon,Tablet,1,fraud
+T01053,42286.25,2026-04-09 01:58:51,Hyderabad,Croma,Mobile,1,fraud
+T01054,3641.67,2026-03-18 00:30:51,Chennai,Amazon,Laptop,1,fraud
+T01055,8720.35,2026-04-02 19:32:51,Mumbai,Swiggy,Laptop,0,legit
+T01056,12494.18,2026-03-10 09:15:51,Bangalore,Zomato,Tablet,0,fraud
+T01057,28463.65,2026-03-29 07:40:51,Delhi,Zomato,Mobile,0,legit
+T01058,39813.35,2026-03-24 16:39:51,Mumbai,Croma,Tablet,1,fraud
+T01059,16801.19,2026-03-31 21:48:51,Pune,Zomato,Mobile,1,fraud
+T01060,12430.31,2026-03-18 06:58:51,Chennai,Croma,Tablet,0,legit
+T01061,42729.62,2026-04-06 00:43:51,Delhi,Flipkart,Mobile,0,legit
+T01062,22379.1,2026-03-14 15:09:51,Hyderabad,Zomato,Mobile,0,legit
+T01063,7367.81,2026-03-12 12:59:51,Mumbai,Swiggy,Tablet,0,fraud
+T01064,10802.81,2026-03-23 13:40:51,Pune,Flipkart,Tablet,0,legit
+T01065,12522.19,2026-03-12 21:12:51,Chennai,Reliance Mart,Tablet,0,legit
+T01066,40242.19,2026-04-08 09:42:51,Mumbai,Flipkart,Laptop,0,fraud
+T01067,24316.8,2026-03-22 04:05:51,Delhi,Amazon,Mobile,0,fraud
+T01068,15102.01,2026-04-04 06:14:51,Hyderabad,Zomato,Mobile,0,legit
+T01069,8094.56,2026-03-24 23:16:51,Hyderabad,Uber,Mobile,1,legit
+T01070,2909.28,2026-03-29 06:58:51,Chennai,Uber,Mobile,0,legit
+T01071,13623.99,2026-03-18 10:14:51,Pune,Flipkart,Mobile,1,fraud
+T01072,23434.08,2026-03-24 07:16:51,Delhi,Zomato,Tablet,0,legit
+T01073,13358.97,2026-03-18 05:46:51,Chennai,Reliance Mart,Laptop,0,fraud
+T01074,13626.87,2026-04-01 02:47:51,Bangalore,Flipkart,Tablet,0,legit
+T01075,12817.36,2026-03-17 10:51:51,Pune,Amazon,Tablet,0,legit
+T01076,35216.98,2026-04-07 10:04:51,Pune,Reliance Mart,Tablet,0,fraud
+T01077,19525.2,2026-03-19 11:35:51,Delhi,Swiggy,Laptop,0,fraud
+T01078,48900.63,2026-03-14 01:30:51,Pune,Swiggy,Laptop,1,legit
+T01079,9070.19,2026-04-04 01:24:51,Delhi,Swiggy,Laptop,1,fraud
+T01080,43029.69,2026-03-16 01:11:51,Pune,Uber,Mobile,1,fraud
+T01081,9098.14,2026-03-21 07:31:51,Bangalore,Flipkart,Laptop,1,legit
+T01082,16141.79,2026-03-31 19:29:51,Mumbai,Flipkart,Tablet,0,fraud
+T01083,11453.89,2026-04-05 01:23:51,Delhi,Flipkart,Tablet,0,legit
+T01084,894.86,2026-03-20 23:31:51,Chennai,Amazon,Tablet,0,fraud
+T01085,9960.96,2026-03-23 13:22:51,Delhi,Amazon,Tablet,1,fraud
+T01086,26745.44,2026-03-24 14:23:51,Mumbai,Reliance Mart,Tablet,0,legit
+T01087,24832.93,2026-04-06 21:47:51,Hyderabad,Amazon,Tablet,0,legit
+T01088,30665.27,2026-04-06 21:19:51,Delhi,Uber,Tablet,1,fraud
+T01089,7985.28,2026-04-03 18:51:51,Delhi,Swiggy,Laptop,1,legit
+T01090,40681.24,2026-03-26 13:36:51,Mumbai,Reliance Mart,Mobile,0,fraud
+T01091,29267.71,2026-03-17 00:51:51,Pune,Flipkart,Mobile,0,legit
+T01092,20995.14,2026-03-11 17:50:51,Hyderabad,Reliance Mart,Mobile,0,legit
+T01093,10887.81,2026-04-04 21:42:51,Chennai,Amazon,Laptop,0,legit
+T01094,7968.63,2026-03-30 09:21:51,Chennai,Flipkart,Mobile,0,fraud
+T01095,3065.2,2026-03-12 11:27:51,Pune,Amazon,Tablet,1,fraud
+T01096,28469.75,2026-04-06 23:30:51,Delhi,Flipkart,Tablet,0,fraud
+T01097,43972.56,2026-03-31 10:35:51,Chennai,Uber,Mobile,0,legit
+T01098,7113.91,2026-03-31 12:24:51,Mumbai,Uber,Mobile,0,legit
+T01099,13680.07,2026-03-19 20:24:51,Hyderabad,Croma,Mobile,0,legit
+T01100,8885.12,2026-03-24 15:12:51,Pune,Zomato,Mobile,0,legit
+T01101,49003.4,2026-03-24 05:31:51,Hyderabad,Uber,Tablet,0,fraud
+T01102,457.26,2026-03-29 14:42:51,Mumbai,Reliance Mart,Tablet,0,legit
+T01103,3421.65,2026-04-05 21:07:51,Mumbai,Amazon,Laptop,1,legit
+T01104,31060.26,2026-03-22 01:07:51,Chennai,Flipkart,Laptop,1,legit
+T01105,5046.17,2026-04-06 06:31:51,Mumbai,Zomato,Mobile,1,fraud
+T01106,35515.89,2026-03-22 23:16:51,Bangalore,Amazon,Laptop,0,fraud
+T01107,8632.54,2026-03-26 04:54:51,Hyderabad,Reliance Mart,Laptop,1,fraud
+T01108,26832.79,2026-03-28 02:00:51,Mumbai,Zomato,Mobile,1,fraud
+T01109,26233.76,2026-04-06 18:15:51,Chennai,Zomato,Laptop,0,legit
+T01110,43884.1,2026-03-15 02:16:51,Pune,Swiggy,Tablet,1,legit
+T01111,24928.49,2026-04-08 21:03:51,Pune,Reliance Mart,Laptop,1,legit
+T01112,13169.9,2026-04-08 15:08:51,Hyderabad,Reliance Mart,Mobile,0,fraud
+T01113,37863.85,2026-03-31 00:34:51,Hyderabad,Croma,Tablet,1,legit
+T01114,44477.31,2026-03-19 19:51:51,Mumbai,Reliance Mart,Tablet,1,fraud
+T01115,11105.29,2026-03-24 18:29:51,Chennai,Uber,Tablet,1,legit
+T01116,28820.92,2026-04-03 04:24:51,Mumbai,Amazon,Tablet,0,fraud
+T01117,17317.43,2026-03-13 14:49:51,Pune,Zomato,Laptop,0,fraud
+T01118,32716.14,2026-03-24 13:10:51,Bangalore,Swiggy,Laptop,1,fraud
+T01119,15796.43,2026-04-06 21:43:51,Pune,Uber,Mobile,1,fraud
+T01120,6747.8,2026-04-08 21:44:51,Bangalore,Swiggy,Mobile,0,legit
+T01121,12284.38,2026-03-29 20:48:51,Bangalore,Amazon,Laptop,1,fraud
+T01122,11162.62,2026-04-05 07:47:51,Bangalore,Flipkart,Laptop,1,legit
+T01123,46029.6,2026-03-26 23:34:51,Pune,Croma,Tablet,1,fraud
+T01124,39636.91,2026-04-02 10:14:51,Hyderabad,Zomato,Laptop,0,legit
+T01125,37782.5,2026-03-10 09:47:51,Delhi,Zomato,Tablet,1,legit
+T01126,46389.74,2026-04-06 10:10:51,Chennai,Flipkart,Mobile,0,fraud
+T01127,36770.28,2026-03-13 14:08:51,Bangalore,Amazon,Mobile,0,legit
+T01128,31898.75,2026-03-10 09:08:51,Bangalore,Reliance Mart,Mobile,1,legit
+T01129,24209.69,2026-03-11 10:14:51,Delhi,Amazon,Tablet,0,legit
+T01130,25270.61,2026-03-16 02:50:51,Mumbai,Uber,Laptop,1,legit
+T01131,31933.44,2026-03-18 22:41:51,Bangalore,Croma,Laptop,1,legit
+T01132,6769.74,2026-03-28 13:03:51,Mumbai,Uber,Mobile,0,fraud
+T01133,38615.85,2026-04-09 03:17:51,Mumbai,Reliance Mart,Tablet,0,legit
+T01134,25941.66,2026-04-09 04:24:51,Chennai,Flipkart,Mobile,1,legit
+T01135,9394.88,2026-03-12 04:53:51,Mumbai,Amazon,Mobile,0,legit
+T01136,15956.09,2026-03-18 05:26:51,Hyderabad,Uber,Tablet,0,legit
+T01137,12416.35,2026-03-18 15:48:51,Pune,Croma,Mobile,1,fraud
+T01138,19368.5,2026-03-13 18:20:51,Pune,Reliance Mart,Laptop,1,legit
+T01139,35849.14,2026-04-02 23:00:51,Chennai,Swiggy,Mobile,1,legit
+T01140,26699.8,2026-03-15 07:38:51,Bangalore,Swiggy,Laptop,0,fraud
+T01141,3748.79,2026-03-15 08:18:51,Bangalore,Croma,Mobile,0,fraud
+T01142,42623.76,2026-04-02 19:07:51,Pune,Swiggy,Mobile,1,fraud
+T01143,40255.93,2026-03-30 22:30:51,Pune,Amazon,Mobile,0,fraud
+T01144,8915.46,2026-03-14 03:44:51,Delhi,Reliance Mart,Laptop,0,legit
+T01145,31549.25,2026-04-06 06:35:51,Chennai,Uber,Tablet,0,legit
+T01146,18685.18,2026-03-31 05:39:51,Pune,Amazon,Tablet,1,legit
+T01147,14319.73,2026-03-29 14:35:51,Mumbai,Uber,Laptop,1,legit
+T01148,22301.04,2026-03-21 20:43:51,Chennai,Amazon,Tablet,0,legit
+T01149,26032.31,2026-03-17 12:54:51,Chennai,Amazon,Tablet,1,legit
+T01150,29227.47,2026-03-22 15:47:51,Chennai,Reliance Mart,Tablet,1,fraud
+T01151,21093.3,2026-03-20 04:00:51,Chennai,Croma,Laptop,0,legit
+T01152,9195.57,2026-03-22 11:38:51,Pune,Croma,Mobile,0,fraud
+T01153,48774.13,2026-03-27 20:24:51,Delhi,Swiggy,Laptop,0,legit
+T01154,35188.64,2026-03-13 17:01:51,Mumbai,Flipkart,Mobile,0,legit
+T01155,4179.22,2026-03-13 23:39:51,Bangalore,Uber,Mobile,0,fraud
+T01156,38519.41,2026-03-15 03:46:51,Chennai,Amazon,Tablet,0,legit
+T01157,40112.98,2026-03-19 09:57:51,Delhi,Uber,Tablet,1,legit
+T01158,38959.13,2026-03-31 01:14:51,Chennai,Uber,Mobile,0,legit
+T01159,38279.94,2026-03-10 09:24:51,Bangalore,Uber,Mobile,1,legit
+T01160,18651.09,2026-03-17 20:36:51,Delhi,Flipkart,Mobile,0,legit
+T01161,11095.78,2026-03-27 19:44:51,Hyderabad,Zomato,Tablet,1,fraud
+T01162,44324.47,2026-03-27 19:20:51,Mumbai,Uber,Mobile,0,legit
+T01163,20845.13,2026-03-23 05:20:51,Pune,Reliance Mart,Laptop,0,legit
+T01164,45455.83,2026-03-23 08:57:51,Hyderabad,Flipkart,Tablet,0,fraud
+T01165,13005.87,2026-04-03 05:45:51,Pune,Croma,Laptop,0,legit
+T01166,10851.52,2026-03-17 19:15:51,Hyderabad,Amazon,Mobile,1,legit
+T01167,47985.3,2026-03-31 14:50:51,Pune,Reliance Mart,Laptop,0,fraud
+T01168,6937.06,2026-03-26 07:46:51,Hyderabad,Uber,Mobile,1,fraud
+T01169,35302.75,2026-03-22 04:13:51,Chennai,Reliance Mart,Mobile,0,legit
+T01170,17142.76,2026-04-03 05:05:51,Delhi,Swiggy,Tablet,1,legit
+T01171,26922.15,2026-04-03 17:10:51,Pune,Amazon,Mobile,0,legit
+T01172,18974.88,2026-03-26 03:51:51,Mumbai,Croma,Tablet,1,fraud
+T01173,3751.26,2026-03-19 08:02:51,Bangalore,Flipkart,Tablet,1,legit
+T01174,43277.3,2026-04-08 03:36:51,Hyderabad,Amazon,Mobile,1,legit
+T01175,41534.87,2026-03-26 12:50:51,Pune,Uber,Laptop,0,legit
+T01176,28066.93,2026-03-16 02:52:51,Pune,Flipkart,Mobile,0,legit
+T01177,33750.91,2026-03-12 21:53:51,Delhi,Croma,Laptop,1,legit
+T01178,20899.02,2026-03-29 10:47:51,Bangalore,Amazon,Tablet,0,fraud
+T01179,30292.1,2026-03-11 01:19:51,Hyderabad,Zomato,Laptop,0,legit
+T01180,17247.11,2026-03-31 06:29:51,Bangalore,Croma,Laptop,0,fraud
+T01181,9375.63,2026-03-29 00:11:51,Mumbai,Reliance Mart,Mobile,1,fraud
+T01182,3073.68,2026-03-19 04:33:51,Pune,Uber,Tablet,0,legit
+T01183,42431.15,2026-03-10 17:28:51,Mumbai,Reliance Mart,Laptop,1,legit
+T01184,31281.35,2026-03-20 10:16:51,Bangalore,Flipkart,Mobile,0,fraud
+T01185,44207.85,2026-03-28 18:16:51,Hyderabad,Amazon,Tablet,0,legit
+T01186,12783.19,2026-03-18 07:42:51,Mumbai,Reliance Mart,Mobile,1,fraud
+T01187,10370.93,2026-03-16 11:43:51,Mumbai,Amazon,Mobile,1,fraud
+T01188,43576.69,2026-03-10 20:17:51,Bangalore,Amazon,Tablet,0,legit
+T01189,5950.06,2026-03-24 22:39:51,Mumbai,Zomato,Mobile,1,legit
+T01190,44549.08,2026-03-16 10:59:51,Delhi,Zomato,Tablet,0,legit
+T01191,15613.73,2026-03-30 03:52:51,Chennai,Swiggy,Mobile,1,fraud
+T01192,45415.09,2026-03-21 05:27:51,Hyderabad,Flipkart,Mobile,0,fraud
+T01193,17268.37,2026-04-01 19:28:51,Delhi,Reliance Mart,Mobile,1,fraud
+T01194,17560.46,2026-03-25 06:44:51,Mumbai,Uber,Laptop,0,fraud
+T01195,27494.1,2026-04-08 11:04:51,Pune,Uber,Tablet,1,fraud
+T01196,7260.06,2026-03-10 14:12:51,Mumbai,Uber,Tablet,0,legit
+T01197,5317.47,2026-04-05 18:12:51,Mumbai,Amazon,Mobile,1,legit
+T01198,4685.17,2026-03-24 10:18:51,Chennai,Amazon,Tablet,0,legit
+T01199,47669.72,2026-04-02 21:48:51,Delhi,Zomato,Tablet,1,legit
+T01200,28791.16,2026-04-05 04:09:51,Chennai,Amazon,Mobile,1,legit
